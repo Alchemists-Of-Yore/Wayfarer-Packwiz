@@ -658,7 +658,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "51e00998720798c63c7ef94ec7c40bf8d9ba590ffc69a3b77d999e6f9385fd6c"
+hash = "506d5442b93f5994acf751e8697b1b897ea86cddce6263dccb86f5b6118fb1d6"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -2813,6 +2813,10 @@ metafile = true
 file = "mods/ferrite-core.pw.toml"
 hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
+
+[[files]]
+file = "mods/figura-custom.jar"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
 
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
