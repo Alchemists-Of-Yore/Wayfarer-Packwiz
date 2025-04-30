@@ -257,10 +257,6 @@ file = "config/everycomp-entries.toml"
 hash = "ad4e90de6e5efed7f5da0fb4dc0f8de8a35acdef2d330ddca40fab805b137a87"
 
 [[files]]
-file = "config/everycomp-hazardous.properties"
-hash = "fceaf9861a88ce75b81f7f7416bc498eb8bc3f977a90f23c88cae6e94c43dbfe"
-
-[[files]]
 file = "config/explosiveenhancement.toml"
 hash = "e0103d9a7c2f2068bdc29e27e43be9adbd79828356f6e61d547e5c04de965b2a"
 
@@ -799,10 +795,6 @@ hash = "dc7249557cb4d82bb5c824ab3014a27f1132b8e4ba1d35f8d4c4c4ad5af1f336"
 [[files]]
 file = "config/vanishmod-server.toml"
 hash = "0fab7a15f1925c5446156dddc96c7aa3e64e12cdef35f5382bce54c42e2c7cfd"
-
-[[files]]
-file = "config/voicechat/translations.properties"
-hash = "693643b1d393cbb3ea7f062afc4474fcd66e4036c4f8d7c056434979cbf512d1"
 
 [[files]]
 file = "config/waterdripsound.json"
