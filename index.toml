@@ -2810,11 +2810,6 @@ hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
-metafile = true
-
-[[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
 hash = "b29d7f92a52c30d45ea76391036d2a73f82dfa0e1e42e6a3bf5688ba83ba8c88"
 metafile = true
