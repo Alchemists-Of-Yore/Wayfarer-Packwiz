@@ -1,0 +1,13 @@
+name = "Wayfarer"
+author = "Tazer, Farcr"
+version = "5"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "ad41060286dfaa21e0e4e8690d434842814add3efb6fc6e50b100090bc2c718f"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.169"

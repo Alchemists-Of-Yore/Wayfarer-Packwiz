@@ -1,0 +1,13 @@
+name = "Big Brain"
+filename = "bigbrain-2.2.4-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jRRBLkzK/versions/hSOJkjzm/bigbrain-2.2.4-1.21.1.jar"
+hash-format = "sha512"
+hash = "ceb2ca5050066761bafdbd32fe1aa7c7b0cc251459ff1b84405aaf7e679319bb39b1abba2e02d897aa4abbc8405d8a8527e4fb51af5abaf869a987fc1e62e734"
+
+[update]
+[update.modrinth]
+mod-id = "jRRBLkzK"
+version = "hSOJkjzm"

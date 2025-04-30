@@ -1,0 +1,256 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "18cf2b63d293ba0738c1073690fbd2c62305b161f76d346a551a66a9bbf8af32"
+metafile = true
+
+[[files]]
+file = "mods/amendments.pw.toml"
+hash = "1fa5075c1ebd310416d705674d6ae90975fa8971ce6cf04478f548a18c58d0da"
+metafile = true
+
+[[files]]
+file = "mods/another-furniture.pw.toml"
+hash = "401e6f8ea3922a0fc69dd8fd126280133fa4e94e7f6558ad916bdef0d6e68bdd"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "5724ca10bd6d37de46834ab762a46f9ce09175f0a4fa0e2ab633846067940c03"
+metafile = true
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/armor-stand-shift-swap.pw.toml"
+hash = "562c7ff09014ef5c147d1b60f2346effa8b2c78d26ecc71b69963433c65c506d"
+metafile = true
+
+[[files]]
+file = "mods/backpacks-for-dummies.pw.toml"
+hash = "eb20f9616066b15db72a911d64265b99fce6ca9585efacd662c2d52e43105c0a"
+metafile = true
+
+[[files]]
+file = "mods/bbrb.pw.toml"
+hash = "d3e067134ecb835b1a02e6f10666033d71ac017a21f17b3a5efeca756482642a"
+metafile = true
+
+[[files]]
+file = "mods/be-style-wither.pw.toml"
+hash = "cdcee5e9dea8ae916d1c116c6c4ca7491285bb5649863bd1e76b4470429e7601"
+metafile = true
+
+[[files]]
+file = "mods/berry-good.pw.toml"
+hash = "781a0931f5ab4cc333717c2d6a56ce311474d2c0bd27681c4126aa8f24e97aa8"
+metafile = true
+
+[[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "93c4acd165a291c6d1e69c27b05b2747afc926b38a414712263fbc95f42da323"
+metafile = true
+
+[[files]]
+file = "mods/better-safe-bed.pw.toml"
+hash = "c90e15afea78a3291ef1758a5f3e72817ad8d10e6a244cf94da2904bc57f0574"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/betterdays.pw.toml"
+hash = "de47f720da923c1c601bd184f40379e8dd6db17619ec8705c8f885b70b060bae"
+metafile = true
+
+[[files]]
+file = "mods/big-brain.pw.toml"
+hash = "c4ae6e3c843e684112295707eecc17215e6fbcb9d8292e85593bf22d9cf9a84e"
+metafile = true
+
+[[files]]
+file = "mods/biolith.pw.toml"
+hash = "247f6e0e56476b10e3fb4fb37fc0b4fc103338b0e9ada499f919167014760707"
+metafile = true
+
+[[files]]
+file = "mods/blueprint.pw.toml"
+hash = "4f033e62484a79ee8fec7868e9113d18b9c4c12aa9678b13a1dd84d598aa9868"
+metafile = true
+
+[[files]]
+file = "mods/boatload.pw.toml"
+hash = "a72ca3dbb17810f9d3193fe9b0fffa94be0fa5f30f5bcb409e21746cfe17f741"
+metafile = true
+
+[[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "3ec8952109756b9adde5f7764f4bf7f09b6485d327959d9ac797a152029c635b"
+metafile = true
+
+[[files]]
+file = "mods/c2me-neoforge.pw.toml"
+hash = "cee929d9295646c0726c19af7ac822dd18b474536f085844c202757e3521be97"
+metafile = true
+
+[[files]]
+file = "mods/carry-on.pw.toml"
+hash = "8fde54624913d86f1176cd1086fa485f1a872573dac144347c57cab76596b715"
+metafile = true
+
+[[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "fe5edc0905ada722f8d3b96c2b4e8098eb98f6d077afd3470bdae1a1b5627f74"
+metafile = true
+
+[[files]]
+file = "mods/chatnotify.pw.toml"
+hash = "e24e25c9d5e250997d45c21913e3d0172d9898f1c66e8ce546251d2efadf16d7"
+metafile = true
+
+[[files]]
+file = "mods/chunk-activity-tracker.pw.toml"
+hash = "d71977ecbd4b6e5d59f439a09e9a852ed8a91b922927e44c45114f59ef5cae1a"
+metafile = true
+
+[[files]]
+file = "mods/clayworks.pw.toml"
+hash = "1d73360a54737eae3396d5fd1846364d354004e25a215ada50bfddcade667b4f"
+metafile = true
+
+[[files]]
+file = "mods/clickthrough+.pw.toml"
+hash = "ffb0861ae37abc292e61208c8b7826b7b8287b24c07419083d4bb4ac109da4ee"
+metafile = true
+
+[[files]]
+file = "mods/collective.pw.toml"
+hash = "3c77cfac6baca0b34f29f071d47aed281cf0a27c5284145fff9b1461c24e26f8"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "2082be01a5a634d36b3141d1fa19ccbf0bf7fb2a4aa1dc726b6dfe26de0b091d"
+metafile = true
+
+[[files]]
+file = "mods/conduits-prevent-drowned.pw.toml"
+hash = "b171daa46eaf38e18b576293dec212a6e03cf732fdcc86f4835a3b4822b4ef7f"
+metafile = true
+
+[[files]]
+file = "mods/constant-music.pw.toml"
+hash = "32e169ff33f873dff9465b721c14935714dc121f4f8508e6a5879b70e4acee2a"
+metafile = true
+
+[[files]]
+file = "mods/continents.pw.toml"
+hash = "d6da3d9e4834b857398f1e50bcaddd5b2a47ee1be0164adc9bc8fd7be3534599"
+metafile = true
+
+[[files]]
+file = "mods/coolrain.pw.toml"
+hash = "6af579972dbebc9e302f0df2dc80ac7dc3150951550f4dfad6698878ffa305c8"
+metafile = true
+
+[[files]]
+file = "mods/create-picky-wheels.pw.toml"
+hash = "c91192897611acfe2c585d1da05695301c483cd8ee1bc539ccbf925b82ea4449"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/diagonal-fences.pw.toml"
+hash = "632743d54d410c8b78fb92c94d8f3bb6a7a3faed45171f91e554877f94f82163"
+metafile = true
+
+[[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+metafile = true
+
+[[files]]
+file = "mods/does-it-tick.pw.toml"
+hash = "782bd2177b75eb643ed9456887d2f141d7353ac6d9704ba36433aa12a62d8144"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ancient-city-overhaul.pw.toml"
+hash = "d92fc8263e986d682e6a207e434cbffc2844ea180e916553b280033d560d7c89"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-desert-temple-overhaul.pw.toml"
+hash = "3e82f7bc2a521721e30bc60bc9823502daf204646d3a9bf33ab2616591261568"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-jungle-temple-overhaul.pw.toml"
+hash = "72724de3861b2f041eb0b430e2771c2f5287b3b85ba918562e050712b5571b81"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-nether-fortress-overhaul.pw.toml"
+hash = "adaea34e552e64a406a78a3cbcbca8d529052f1a23c9160e9a96e9407c698f3c"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-ocean-monument-overhaul.pw.toml"
+hash = "dc24e814f0794ed8cf8e16e6667736049e0763b4204369e07787559007cbcbbd"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-stronghold-overhaul.pw.toml"
+hash = "872ab8c78193dd775eb707793b8edc528323632a7fe2930223513635c2fddefa"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns-woodland-mansion-replacement.pw.toml"
+hash = "c8383c70201cb18414db84f85f4326dd0ca564f0d57500cad8f7f22a42f41e73"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "b9244dca740d333c22f3425991fdd2fd40d3ae12384079a40a6fb7d4bca18a18"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "9c454f3b26fea7aa3e04b6edecf5707a74927dcf63715ffa01b248bd9ffefc41"
+metafile = true
+
+[[files]]
+file = "mods/the-block-box.pw.toml"
+hash = "3c6d9d736ddaaf332b5a0aabbbbf9b13680e55ef3b4ca0cec8fcf8e77f0b912e"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "b64cd44b70986cec4f68968cfb55b33a02232521d2fe8b4d44141ef18cdbb150"
+metafile = true
+
+[[files]]
+file = "mods/vanity-deep-forged.pw.toml"
+hash = "3ace0eb3b8af1959488695bb7d516a0a631373258b1a3343f0c88f8a859f9248"
+metafile = true

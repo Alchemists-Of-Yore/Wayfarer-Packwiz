@@ -1,0 +1,13 @@
+name = "Armor Stand Shift Swap"
+filename = "armorstandshiftswap-neoforge-1.21-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vFDTNKLA/versions/7zN5jgfD/armorstandshiftswap-neoforge-1.21-1.0.1.jar"
+hash-format = "sha512"
+hash = "33eed7bf1c7fd6b33174801c256cbe08733e23fb1d29d8e48efdf52edcd8db788633b926fb77d4acd57933432d807191b6331c490d13197235c618b8ceac0af2"
+
+[update]
+[update.modrinth]
+mod-id = "vFDTNKLA"
+version = "7zN5jgfD"
