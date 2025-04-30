@@ -2560,6 +2560,11 @@ hash = "c4ae6e3c843e684112295707eecc17215e6fbcb9d8292e85593bf22d9cf9a84e"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "247f6e0e56476b10e3fb4fb37fc0b4fc103338b0e9ada499f919167014760707"
+metafile = true
+
+[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "4f033e62484a79ee8fec7868e9113d18b9c4c12aa9678b13a1dd84d598aa9868"
 metafile = true
@@ -2947,6 +2952,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "b8ce87d9a7164676e68e69e9e6706cd6e9123b1fe740612b1ba39b43ce8675ef"
+metafile = true
+
+[[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "47e2244b736fb660839538b160cc35e66f9f96e08e050c5e2cfd421dbe40eef7"
 metafile = true
 
 [[files]]
