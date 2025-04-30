@@ -1,12 +1,12 @@
 name = "Wayfarer"
 author = "Tazer, Farcr"
-version = "5"
+version = "6"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "648ef99c164597c4cd3700632a25eeede045a3979f6da413e129c58f02db1942"
+hash = "a7dc8392a20a732be3ab12e59e3781ab8933ce7436e382b9d3046602cac33935"
 
 [versions]
 minecraft = "1.21.1"
