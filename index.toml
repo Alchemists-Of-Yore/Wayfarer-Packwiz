@@ -2465,11 +2465,6 @@ file = "kubejs/startup_scripts/registry.js"
 hash = "13028df398b1938a1772f073178f162186d0eb3c23c56bd11652d38df1a2a07d"
 
 [[files]]
-file = "mods/accessories.pw.toml"
-hash = "03cb643aac647a345a61f69621c1100614bf2f680308ae14ff48547f4e053791"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "62611a2b798035390a280b158563cfa590ab6f3465b77be46949839809dbe77f"
 metafile = true
@@ -3282,11 +3277,6 @@ metafile = true
 [[files]]
 file = "mods/vanity.pw.toml"
 hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
-metafile = true
-
-[[files]]
-file = "mods/villager-transportation.pw.toml"
-hash = "a91b65f28097cc0440d16bf3b59007a9dd67620783292c3a90c9e1cf74196e27"
 metafile = true
 
 [[files]]
