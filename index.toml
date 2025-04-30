@@ -2810,9 +2810,8 @@ hash = "867a029a8bed75bea2fb02e5186730db46ec01f970d0bdb266c6897074c16177"
 metafile = true
 
 [[files]]
-file = "mods/figura.pw.toml"
-hash = "a0d6c1c458975efd2a57b5d8d6920b0647a884cc77463be5716f93c3f0112cb5"
-metafile = true
+file = "mods/figura-0.1.5+1.21.1-neoforge-mc.jar"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
 
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
@@ -3272,11 +3271,6 @@ metafile = true
 [[files]]
 file = "mods/vanity-ornate-weaponry.pw.toml"
 hash = "b7d7c5b314a5b86b9790445b74c99fc736b561401b1b84c60ff484c3770557d1"
-metafile = true
-
-[[files]]
-file = "mods/vanity.pw.toml"
-hash = "678ffbe44007654fa572af716c884f604a1368f23959f09740c8cf3701373186"
 metafile = true
 
 [[files]]
