@@ -1,0 +1,13 @@
+name = "Llama Steeds"
+filename = "llamasteeds-neoforge-2024.08.08.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VmkAInWR/versions/WzZWr5VA/llamasteeds-neoforge-2024.08.08.jar"
+hash-format = "sha512"
+hash = "716334d387c78994d5b4404b26c69245b441daf527038607097f063c1a82e15529d969c4383c97ccef9e51907fda8254ed7dfd9ba5b7d26d189d6dd8cb3c8534"
+
+[update]
+[update.modrinth]
+mod-id = "VmkAInWR"
+version = "WzZWr5VA"

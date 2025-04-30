@@ -1,0 +1,56 @@
+{
+    "model": "vanity_colossal_weapons:heavy_blacksmithing_design",
+    "type": "sellable",
+    "styles": {
+        "greatsword": 
+        [
+            {
+                "item": "minecraft:diamond_sword",
+                "assets": {
+                    "default": "vanity_colossal_weapons:greatsword",
+                    "hand": "vanity_colossal_weapons:greatsword_handheld"
+                }
+            }
+        ],
+         "flamberge": 
+        [
+            {
+                "item": "minecraft:diamond_sword",
+                "assets": {
+                    "default": "vanity_colossal_weapons:flamberge",
+                    "hand": "vanity_colossal_weapons:flamberge_handheld"
+                }
+            }
+        ],
+        "greataxe": 
+        [
+            {
+                "item": "minecraft:diamond_axe",
+                "assets": {
+                    "default": "vanity_colossal_weapons:greataxe",
+                       "hand": "vanity_colossal_weapons:greataxe_handheld"
+                }
+            }
+        ],
+        "warpick": 
+        [
+            {
+              "item": ["minecraft:diamond_axe","minecraft:diamond_pickaxe"],
+                 "assets": {
+                     "default": "vanity_colossal_weapons:warpick",
+                     "hand": "vanity_colossal_weapons:warpick_handheld"
+                 }
+            }
+        ],
+        "military_shovel": 
+        [
+            {
+                "item": "minecraft:diamond_shovel",
+                "assets": {
+                    "default": "vanity_colossal_weapons:military_shovel",
+                       "hand": "vanity_colossal_weapons:military_shovel_handheld"
+                }
+            }   
+        ]
+    }
+}

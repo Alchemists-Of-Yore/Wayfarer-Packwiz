@@ -1,0 +1,20 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "type": "fluid_stack",
+            "amount": 250,
+            "fluid": "brewinandchewin:beer"
+        },
+        {
+            "item": "brewinandchewin:tankard"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "brewinandchewin:beer"
+            }
+        }
+    ]
+}

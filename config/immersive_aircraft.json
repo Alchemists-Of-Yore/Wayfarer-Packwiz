@@ -1,0 +1,59 @@
+{
+  "enableDropsForNonPlayer": true,
+  "enableCrashExplosion": true,
+  "enableCrashBlockDestruction": true,
+  "enableCrashFire": true,
+  "crashExplosionRadius": 3.0,
+  "crashDamage": 2.0,
+  "preventKillThroughCrash": false,
+  "healthBarRow": 0,
+  "damagePerHealthPoint": 30,
+  "separateCamera": true,
+  "useThirdPersonByDefault": true,
+  "enableTrails": true,
+  "renderDistance": 300.0,
+  "fuelConsumption": 1.0,
+  "windClearWeather": 1.5,
+  "windRainWeather": 4.0,
+  "windThunderWeather": 5.0,
+  "repairSpeed": 0.05,
+  "repairExhaustion": 1.5,
+  "collisionDamage": true,
+  "collisionDamageMultiplier": 40.0,
+  "burnFuelInCreative": true,
+  "acceptVanillaFuel": false,
+  "useCustomKeybindSystem": true,
+  "showHotbarEngineGauge": true,
+  "weaponsAreDestructive": false,
+  "dropAircraft": true,
+  "dropInventory": true,
+  "dropUpgrades": false,
+  "regenerateHealthEveryNTicks": 200,
+  "requireShiftForRepair": true,
+  "bombBayEntity": {
+    "minecraft:egg": "minecraft:chicken"
+  },
+  "rotaryCannonDamage": 5.0,
+  "heavyCrossBowVelocity": 3.0,
+  "fuelList": {
+    "kubejs:aviation_fuel": 2000
+  },
+  "validDimensions": {
+    "minecraft:the_nether": true,
+    "minecraft:the_end": true,
+    "minecraft:overworld": true
+  },
+  "gunpowderAmmunition": {
+    "minecraft:gunpowder": 100
+  },
+  "arrowAmmunition": {
+    "minecraft:spectral_arrow": 100,
+    "minecraft:arrow": 100,
+    "minecraft:tipped_arrow": 100
+  },
+  "bombBayAmmunition": {
+    "nomansland:explosive": 100
+  },
+  "version": 1,
+  "name": "immersive_aircraft"
+}

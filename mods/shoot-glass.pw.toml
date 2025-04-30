@@ -1,0 +1,13 @@
+name = "Shoot Glass"
+filename = "shootglass-neoforge-1.21.1-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s4mejB0R/versions/r97N9bPk/shootglass-neoforge-1.21.1-2.0.4.jar"
+hash-format = "sha512"
+hash = "8274fcfe0de69137ca930010f514711f4092ee546d609268e91ad7fcc05ba3b0edc256e9b47548978bf117598243c6981eb97e1005d606a58bd092d3a1c67de1"
+
+[update]
+[update.modrinth]
+mod-id = "s4mejB0R"
+version = "r97N9bPk"

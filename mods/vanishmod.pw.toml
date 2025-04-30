@@ -1,0 +1,13 @@
+name = "Vanishmod"
+filename = "Vanishmod-1.21.1-1.1.18.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/MihN2cw5/versions/KJkKADGN/Vanishmod-1.21.1-1.1.18.jar"
+hash-format = "sha512"
+hash = "6217c387b3fbe5f9b88377b4dee38497733f34297d1d323df5da7eed11600f6ed4188eb29fad53962bcaafd9783d4582abc175deef114bfa59d01a36fab6ce66"
+
+[update]
+[update.modrinth]
+mod-id = "MihN2cw5"
+version = "KJkKADGN"

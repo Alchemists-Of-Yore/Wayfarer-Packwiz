@@ -1,0 +1,55 @@
+{
+  "schema_version": 2,
+  "failed_reloads_per_session": 5,
+  "default_packs": [
+    "scholar:chiseled_bookshelf_colored_books",
+    "scholar:colored_books",
+    "file/GalleryPortfolioCompat1.3.zip",
+    "file/Soft-Weather-1.0-1.20.zip",
+    "file/Detail-Brush-1.6-1.20.zip",
+    "file/Farcr's Re-Crafted DEV",
+    "file/Farcr's Re-Create 1.6.zip",
+    "file/Farcr's Better Dirt V1.2.zip",
+    "file/probleyes_produce_1.4_TEST.zip",
+    "file/Wayfarer Pack.zip",
+    "file/Authentic Shadows_1.21+.zip",
+    "mod/subtle_effects:resourcepacks/biome_color_water_particles"
+  ],
+  "default_overrides": {
+    "force_compatible": true
+  },
+  "pack_overrides": {
+    "vanilla": {
+      "title": "\"Vanilla Assets\"",
+      "description": "\"Resource pack from Minecraft\"",
+      "default_position": "BOTTOM",
+      "fixed_position": true
+    },
+    "server": {
+      "default_position": "TOP",
+      "fixed_position": true
+    },
+    "hidden": [
+      "moonlight:mods_dynamic_assets",
+      "mod_resources",
+      "fabric",
+      "black_icons",
+      "white_icons",
+      "classic_icons",
+      "supplementaries:darker_ropes",
+      "programmer_art",
+      "high_contrast",
+      "scholar:colored_books",
+      "scholar:chiseled_bookshelf_colored_books",
+      "file/Wayfarer Pack.zip",
+      "file/Authentic Shadows_1.21+.zip",
+      "mod/subtle_effects:resourcepacks/biome_color_water_particles",
+      "file/GalleryPortfolioCompat1.3.zip"
+    ],
+    "$$hidden": {
+      "hidden": true,
+      "default_position": "BOTTOM",
+      "fixed_position": true
+    }
+  }
+}

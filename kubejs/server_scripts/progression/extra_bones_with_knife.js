@@ -1,0 +1,40 @@
+LootJS.modifiers((event) => {
+  event
+    .addEntityModifier([
+      "nomansland:deer",
+      "minecraft:llama",
+      "minecraft:trader_llama",
+      "minecraft:sheep",
+      "minecraft:goat",
+      "minecraft:mooshroom",
+      "minecraft:pig",
+      "minecraft:wolf",
+      "minecraft:panda",
+    ])
+    .randomChance(0.8)
+    .matchMainHand("#farmersdelight:tools/knives")
+    .addLoot("minecraft:bone");
+
+  event
+    .addEntityModifier([
+      "minecraft:cow",
+      "minecraft:camel",
+      "minecraft:polar_bear",
+      "minecraft:horse",
+      "minecraft:mule",
+      "minecraft:donkey",
+      "minecraft:hoglin",
+    ])
+    .matchMainHand("#farmersdelight:tools/knives")
+    .addLoot("minecraft:bone");
+
+  event
+    .addEntityModifier([
+      "minecraft:fox",
+      "minecraft:rabbit",
+      "minecraft:chicken",
+    ])
+    .randomChance(0.2)
+    .matchMainHand("#farmersdelight:tools/knives")
+    .addLoot("minecraft:bone");
+});

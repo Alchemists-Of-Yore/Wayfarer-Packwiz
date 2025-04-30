@@ -1,0 +1,20 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "type": "fluid_stack",
+            "amount": 250,
+            "fluid": "brewinandchewin:dread_nog"
+        },
+        {
+            "item": "brewinandchewin:tankard"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "brewinandchewin:dread_nog"
+            }
+        }
+    ]
+}

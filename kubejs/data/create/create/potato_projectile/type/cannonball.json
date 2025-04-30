@@ -1,0 +1,14 @@
+{
+  "items": "supplementaries:cannonball",
+  "reload_ticks": 200,
+  "damage": 18,
+  "on_entity_hit": {
+    "type": "create:potion_effect",
+    "effect": "minecraft:slowness",
+    "level": 5,
+    "recoverable": true,
+    "ticks": 20
+  },
+  "knockback": 4,
+  "sound_pitch": 0.1
+}

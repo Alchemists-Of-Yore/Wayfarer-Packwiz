@@ -1,0 +1,13 @@
+[blocks]
+	"Pottery Table" = false
+	Kiln = true
+	"Chiseled bricks" = false
+	"Glazed terracotta" = true
+	Concrete = false
+	"Terracotta slabs, stairs, and walls" = false
+	"Terracotta bricks" = true
+	"Glass doors" = false
+
+	[blocks.decorated_pot]
+		"Decorated pot colors" = true
+		"Decorated pot trims" = false

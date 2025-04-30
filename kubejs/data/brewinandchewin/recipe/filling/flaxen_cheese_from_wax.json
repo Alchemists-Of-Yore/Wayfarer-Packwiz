@@ -1,0 +1,20 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "type": "fluid_stack",
+            "amount": 1000,
+            "fluid": "brewinandchewin:flaxen_cheese"
+        },
+        {
+            "item": "wayfarer_core:wax"
+        }
+    ],
+    "results": [
+        {
+            "item": {
+                "id": "brewinandchewin:unripe_flaxen_cheese_wheel"
+            }
+        }
+    ]
+}

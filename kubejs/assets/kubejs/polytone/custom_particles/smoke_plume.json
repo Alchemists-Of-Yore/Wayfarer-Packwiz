@@ -1,0 +1,25 @@
+{
+  "initializer": {
+    "lifetime": "200",
+    "dx": "rand() * 0.1",
+    "dy": "0",
+    "dz": "rand() * 0.1",
+    "red":"0.01",
+    "green":"0.01",
+    "blue":"0.01",
+    "alpha":"1",
+    "has_physics": false,
+    "kill_on_contact": false
+  },
+  "ticker": {
+    "size": "(AGE * 1.1)/50",
+    "dx": "tan(0.01)",
+    "dy": "0.1",
+    "dz": "0.001 - AGE * 0.001",
+    "alpha":"ALPHA - 0.005",
+    "red":"RED + 0.001",
+    "green":"GREEN + 0.001",
+    "blue":"BLUE + 0.001"
+  },
+  "render_type": "translucent"
+}

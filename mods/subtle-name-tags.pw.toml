@@ -1,0 +1,13 @@
+name = "Subtle Name Tags"
+filename = "subtle_name_tags-0.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SgBeL2MQ/versions/KZPhptTU/subtle_name_tags-0.3.jar"
+hash-format = "sha512"
+hash = "dd82e44de9e7fa04ce8c137ea8e257828832e9be61c91f9847f467d752557b5a5bfa0e05761b5b8390447e13ba97f8a063c88d65bc95deea0300ae28f70448d3"
+
+[update]
+[update.modrinth]
+mod-id = "SgBeL2MQ"
+version = "KZPhptTU"

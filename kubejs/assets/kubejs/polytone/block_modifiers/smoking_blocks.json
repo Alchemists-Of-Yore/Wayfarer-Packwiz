@@ -1,0 +1,28 @@
+{
+  "targets": [
+    "minecraft:gray_candle",
+    "minecraft:fire"
+  ],
+  "particle_emitters": [
+    {
+      "chance": "2",
+      "particle": "kubejs:smoke_plume",
+      "x": "0.5",
+      "y": "0.7",
+      "z": "0.5",
+      "dx": "0",
+      "dy": "0.2",
+      "dz": "0"
+    },
+    {
+      "particle": "minecraft:lava",
+      "chance": "0.7",
+      "x": "0.5", 
+      "z": "0.5",
+      "y": "0.5",
+      "dx": "0",
+      "dy": "0.002 + rand()*0.002",
+      "dz": "0"
+    }
+  ]
+}

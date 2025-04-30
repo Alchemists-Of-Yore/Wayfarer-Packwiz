@@ -1,0 +1,13 @@
+name = "Healing Bed"
+filename = "healingbed 1.21.1 (neoforge).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J6y5L5vM/versions/twLy3HLT/healingbed%201.21.1%20%28neoforge%29.jar"
+hash-format = "sha512"
+hash = "96d83e8f3099c834875928f2bd6c0671d5866b24533ee11d3628a47e3d8c7ddf5d39c390921640a53809912c49cfd72dba9944ae9a78f1b9d25e715180ea670c"
+
+[update]
+[update.modrinth]
+mod-id = "J6y5L5vM"
+version = "twLy3HLT"

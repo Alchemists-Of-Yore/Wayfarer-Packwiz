@@ -1,0 +1,7 @@
+{
+  "items": "kubejs:slug",
+  "reload_ticks": 60,
+  "damage": 6,
+  "knockback": 1,
+  "sound_pitch": 0.5
+}

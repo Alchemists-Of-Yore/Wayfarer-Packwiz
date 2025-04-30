@@ -1,0 +1,11 @@
+{
+  "items": "kubejs:incendiary_slug",
+  "reload_ticks": 80,
+  "damage": 4,
+  "pre_entity_hit": {
+    "type": "create:set_on_fire",
+    "ticks": 400
+  },
+  "knockback": 0.5,
+  "sound_pitch": 0.8
+}
