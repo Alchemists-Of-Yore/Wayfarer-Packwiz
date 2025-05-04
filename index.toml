@@ -1,9 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml.pw.toml"
-hash = "e2a9b0eac80f0c2ebfad9682e75ba30c982b4f4ec33888bc1f382640309e57d5"
-metafile = true
+file = "config/DistantHorizons.toml"
+hash = "abf3aa8eeff8177bdb7d47d958b5a715239a556ff78f82df5311aebc9d22bfff"
 
 [[files]]
 file = "config/MouseTweaks.cfg"
