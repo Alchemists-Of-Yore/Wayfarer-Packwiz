@@ -723,6 +723,28 @@ file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "02677479fb80b3dc99fd600eb6504bf39b913dfb0c9879bae452cce15089e68b"
 
 [[files]]
+file = "config/sounds/chat.json.pw.toml"
+hash = "bccbe41ef39a182a95b0afc94319cfb09820d7a02147c7814bd54c66d91454f6"
+metafile = true
+preserve = true
+
+[[files]]
+file = "config/sounds/event.json"
+hash = "6245d6fd01be9aac33c2c7967fb795b8542a21526623ffc19a85596b3a6e1d1f"
+
+[[files]]
+file = "config/sounds/mod_utils.json"
+hash = "ad4c5fe9811db5595602b39957453cf553ca0ccf0c084db6393caa2f2fa05132"
+
+[[files]]
+file = "config/sounds/ui.json"
+hash = "c72f679ad38f0abb3416f8a5d22406c366a823944754ee3020830d223da59070"
+
+[[files]]
+file = "config/sounds/world.json"
+hash = "820bccce5bd99fdeed446f04aa6b332d6353ece919189db1a29bef9618c12564"
+
+[[files]]
 file = "config/spyglass-improvements/settings.json"
 hash = "57eb3e86dab726c9db2494eae637076a5684d18a2ecf732a59de1c6c7521e88b"
 
