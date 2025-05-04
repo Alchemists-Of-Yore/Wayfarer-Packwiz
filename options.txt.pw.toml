@@ -1,8 +1,0 @@
-name = "Options File"
-filename = "options.txt"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/default-options.txt"
-hash-format = "sha256"
-hash = "6f84ccb3379e724b45844df0a88cbb739023cbe0a2b78822a0e32f199d27afa4"

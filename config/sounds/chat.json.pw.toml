@@ -1,8 +1,0 @@
-name = "Sounds Chat Config"
-filename = "chat.json"
-side = "both"
-
-[download]
-url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/config/sounds/default-chat.json"
-hash-format = "sha256"
-hash = "c5e9648d1db68d854c7523bc2c483dbdd114d5b4e51a12387ee993e26db70758"
