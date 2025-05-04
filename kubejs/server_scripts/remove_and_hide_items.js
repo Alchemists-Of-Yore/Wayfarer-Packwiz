@@ -77,6 +77,7 @@ ServerEvents.tags("item", (event) => {
   event.add("kubejs:removed_item", "immersive_aircraft:hull_reinforcement");
   event.add("kubejs:removed_item", "immersive_aircraft:improved_landing_gear");
   event.add("kubejs:removed_item", "immersive_aircraft:bomb_bay");
+  event.add("kubejs:removed_item", "incubation:fried_egg");
 
   event.removeAllTagsFrom("kubejs:removed_item");
 });

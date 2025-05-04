@@ -814,7 +814,7 @@ hash = "c3f6428a4b3f952eb3fcd29dc370f270b97dc720bf0806d1e660d11ff2327051"
 
 [[files]]
 file = "config/watut-server.toml"
-hash = "15fe072e55efd0d8c73e4995d1b693750f02d0f248c58ac7363399448c553e8d"
+hash = "36d3fcf0b93cd1a6a929ead46b86a36e0fe262ff3bb5690803818d721da2d2f6"
 
 [[files]]
 file = "config/wayfarer_core-common.toml"
@@ -2298,7 +2298,7 @@ hash = "092125c855470a2ca179396b15a0ee4e6f263112580489baa1697307cd2a0419"
 
 [[files]]
 file = "kubejs/server_scripts/building.js"
-hash = "011d1493f3cba3c9edfd3096bfcc41044af3cc0a0eb7c6df60db48af8bfa5f49"
+hash = "89dcef09ac27b6ddd5717fd08fbd86f70513daa2a164affd3188a692b137193c"
 
 [[files]]
 file = "kubejs/server_scripts/concrete.js"
@@ -2394,7 +2394,7 @@ hash = "fea8ef1e26c7be1e9f3cfb67e8288a68c72baa945947ee62d84b42ca7e382b76"
 
 [[files]]
 file = "kubejs/server_scripts/remove_and_hide_items.js"
-hash = "7ad110464928547c00e03915140cae18ec2bf4aa8a261b5f9dc0f57db4e06156"
+hash = "5189a7b736b247d7746afe32063d4ad65e38549768168c3a67ee57a51a62f44d"
 
 [[files]]
 file = "kubejs/server_scripts/scribing_tools.js"
@@ -2647,6 +2647,11 @@ hash = "6af579972dbebc9e302f0df2dc80ac7dc3150951550f4dfad6698878ffa305c8"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
+metafile = true
+
+[[files]]
 file = "mods/create-picky-wheels.pw.toml"
 hash = "c91192897611acfe2c585d1da05695301c483cd8ee1bc539ccbf925b82ea4449"
 metafile = true
@@ -2834,6 +2839,10 @@ metafile = true
 file = "mods/geckolib.pw.toml"
 hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
+
+[[files]]
+file = "mods/glow-1.0.0.jar"
+hash = "9a20b51bc2e8eebc268478c2839c6419d98885501378e7424917282af546d16b"
 
 [[files]]
 file = "mods/goated.pw.toml"
@@ -3156,6 +3165,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/sooty-chimneys.pw.toml"
+hash = "8cf1e8022b041816bb87fddae486ef3d1498f9f43b7232a9b1a26590318b962b"
+metafile = true
+
+[[files]]
 file = "mods/soul-fire-d.pw.toml"
 hash = "b0b3804c321b340fa4eaf2aba2f0d409eaa766708fe9d9910627fec1ff090f1c"
 metafile = true
@@ -3271,8 +3285,17 @@ hash = "b7d7c5b314a5b86b9790445b74c99fc736b561401b1b84c60ff484c3770557d1"
 metafile = true
 
 [[files]]
+file = "mods/wayfarer_core.jar"
+hash = "cc67339423c2f8b168965b228dbd223c84e34c92f7913c1b7cb438b411986aba"
+
+[[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
 hash = "9bf023654ec76432e60adbdfa027244f838b0960f1bcda179480e6ab8e0c532c"
+metafile = true
+
+[[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "9ce52d07c0c3d146a2a44f8bc187138ce7a5558a4e3ab540c86234702b6de274"
 metafile = true
 
 [[files]]

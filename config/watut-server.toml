@@ -3,13 +3,13 @@
 	#SETTING THESE SERVER SIDE SETTINGS TO FALSE WILL OVERRIDE ANY OF THE SAME CLIENT SETTINGS THAT ARE SET TO TRUE (for all clients)
 	dummySetting = true
 	#Disable new dynamic gui system and use old simple visual.
-	dynamicGuiUseOldSimpleGUIVisual = false
+	dynamicGuiUseOldSimpleGUIVisual = true
 	#Delay in ticks before sending a new image of a gui to other clients, 10 = twice a second, 0 = no delay, 20 = once a second, more frequent might affect performance and network load
 	# Default: 10
 	# Range: > 5
 	dynamicGuiTickSendRateOfGUIUpdates = 10
 	#If enabled, only sends the initial image of a players gui, does not constantly update after it's been opened.
-	dynamicGuiDontSendConstantGUIUpdates = false
+	dynamicGuiDontSendConstantGUIUpdates = true
 	#Blur is used to prevent nasty aliasing/flicker artifacts at the cost of clarity
 	# Default: 1
 	# Range: 0 ~ 2
@@ -39,9 +39,9 @@
 	#Enables or disables idle animation
 	showPlayerAnimation_Idle = true
 	#Enables or disables the non typing animations used when showing the open Gui, such as head looking, arms moving up, arms pointing and clicking
-	showPlayerAnimation_Gui = true
+	showPlayerAnimation_Gui = false
 	#Show any Gui they're using that isn't chat typing related in world
-	showPlayerActiveNonChatGui = true
+	showPlayerActiveNonChatGui = false
 	#Show the chat typing Gui in world
 	showPlayerActiveChatGui = true
 	#Show 'Player is typing...' on the chat screen

@@ -218,18 +218,18 @@ ServerEvents.recipes((event) => {
   });
 
   event.custom({
-    type: "create:splashing",
-    ingredients: [
-      {
-        item: "kubejs:concrete_powder",
-      },
-    ],
-    results: [
-      {
-        item: "kubejs:concrete",
-      },
-    ],
-  });
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item": "kubejs:concrete_powder"
+    }
+  ],
+  "results": [
+    {
+      "id": "kubejs:concrete"
+    }
+  ]
+});
 
   let plank_modded = (plank) => {
     event.remove({
