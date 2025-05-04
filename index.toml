@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml.pw.toml"
-hash = "5908ee23f6a006fecfb7737c6aa81df62567cc96cfa6bc8e8731e02ce2b7ef92"
+hash = "f5654a1287f3609f2795c5ce49c08efb7ced6337593ef485eddefa70ded6a970"
 metafile = true
 
 [[files]]
@@ -3328,7 +3328,7 @@ metafile = true
 
 [[files]]
 file = "options.txt.pw.toml"
-hash = "5dbec8e9b7e910411e910b19ab8964dba46124fadfcf422d14674bd42c6afcc9"
+hash = "8f8f510a2ec4cb008b701d47c5155daf35d11808ad852a807b5b51668f0a8050"
 metafile = true
 
 [[files]]
