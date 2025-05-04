@@ -654,7 +654,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "506d5442b93f5994acf751e8697b1b897ea86cddce6263dccb86f5b6118fb1d6"
+hash = "39be9df894ab291b9ffb43e4bc61f5653d2b426e1d792d8dca6e364565500252"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -2298,7 +2298,7 @@ hash = "092125c855470a2ca179396b15a0ee4e6f263112580489baa1697307cd2a0419"
 
 [[files]]
 file = "kubejs/server_scripts/building.js"
-hash = "89dcef09ac27b6ddd5717fd08fbd86f70513daa2a164affd3188a692b137193c"
+hash = "1004f71e02418a2164584e59a43688f538d417241cbff454edadd755ea1389c0"
 
 [[files]]
 file = "kubejs/server_scripts/concrete.js"
@@ -2778,7 +2778,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "9739506f0f40eecbe72e059a3f93210505b00a63c7f14dd1272ce51f6e597982"
+hash = "4f0a337c47e8f805704990a3af3840faff47ebcf5fdfb11067e9599ad7295745"
 metafile = true
 
 [[files]]
@@ -2881,7 +2881,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "d81f9aeba91a685fa9f3f534a223428a76c7518017f88bd51ecd223b0f00b2c7"
+hash = "f818a67f350f4821e17afd834e1cd3a4a56eec0bc440c603c88d4e41452a446e"
 metafile = true
 
 [[files]]
@@ -3101,7 +3101,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "9c454f3b26fea7aa3e04b6edecf5707a74927dcf63715ffa01b248bd9ffefc41"
+hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
