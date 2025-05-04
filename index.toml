@@ -341,6 +341,10 @@ file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
 
 [[files]]
+file = "config/fancymenu/options.txt"
+hash = "dabe41d9f912c441485e8d85803d5fe477551fe5d8fb9ec586aec3c37f72e4df"
+
+[[files]]
 file = "config/fancymenu/panoramas/default/panorama/panorama_0.png"
 hash = "8662f51f18a68d82233ba408eb88a8ef28543be1d741687860acdb0b79a8c818"
 
