@@ -841,10 +841,6 @@ file = "icon.png"
 hash = "299bfeda5dacd9acd37c9370ccf3afa2515bb41b12f088aa90c738be1b93f336"
 
 [[files]]
-file = "kubejs/README.txt"
-hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
-
-[[files]]
 file = "kubejs/assets/another_furniture/textures/item/furniture_hammer.png"
 hash = "e517bc15ac02506060045d92adc8604932f0a2b3fc6535849f8f7df607d0f97e"
 
@@ -2298,7 +2294,7 @@ hash = "092125c855470a2ca179396b15a0ee4e6f263112580489baa1697307cd2a0419"
 
 [[files]]
 file = "kubejs/server_scripts/building.js"
-hash = "1004f71e02418a2164584e59a43688f538d417241cbff454edadd755ea1389c0"
+hash = "14fb95edb540c73f6749b76d67b105f4e0bb08cb3c6c61cd9ec8cd7391f1192d"
 
 [[files]]
 file = "kubejs/server_scripts/concrete.js"
@@ -2673,7 +2669,7 @@ metafile = true
 
 [[files]]
 file = "mods/distanthorizons.pw.toml"
-hash = "007ca3fb8a617776705f8f38eab60a286fed6426a0ee1d792af6814f1bc24174"
+hash = "e0a11ee084570321857a5b0243f780875cb51c7d37114ab03c6d7662f99d3433"
 metafile = true
 
 [[files]]
@@ -3036,7 +3032,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-mans-land.pw.toml"
-hash = "508d2492fcf63775ccf5bb96d6ac68ef880c7bb7fe9e31944927c00143947ffa"
+hash = "450bec3d59ef9a8d7253084fd5e7191084105c7164682503b9b644bbee3bb706"
 metafile = true
 
 [[files]]

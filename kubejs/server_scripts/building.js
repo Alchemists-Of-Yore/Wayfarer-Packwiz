@@ -217,19 +217,19 @@ ServerEvents.recipes((event) => {
     T: "kubejs:tin_ingot",
   });
 
-  event.custom({
-  "type": "create:splashing",
-  "ingredients": [
-    {
-      "item": "kubejs:concrete_powder"
-    }
-  ],
-  "results": [
-    {
-      "id": "kubejs:concrete"
-    }
-  ]
-});
+//   event.custom({
+//   "type": "create:splashing",
+//   "ingredients": [
+//     {
+//       "item": "kubejs:concrete_powder"
+//     }
+//   ],
+//   "results": [
+//     {
+//       "id": "kubejs:concrete"
+//     }
+//   ]
+// });
 
   let plank_modded = (plank) => {
     event.remove({
