@@ -118,11 +118,11 @@ hash = "cb79298b254b9f9dd091fb74987f9dc29ea8c9fa2d560989c4a314cecc1f3dd7"
 
 [[files]]
 file = "config/carryon-client.toml"
-hash = "cf50ea697c9de95661e353fa7a9ae9ecf4056ef17f4f914bb32e07e8a90dd0f0"
+hash = "eedd6195066dd8650e919479b5dec4df40ec2111c1fb3235c3c125f005983eed"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "7f1c77d1d3f91e07b0446dedf45b976bdfbf974dcee0f65cf0ad0999e03f747b"
+hash = "5547d2675160a525d4faeb24ca1c99899347317951fe7c5b1a03afa06aa40ea8"
 
 [[files]]
 file = "config/chalk-client.toml"
@@ -650,7 +650,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "9ca75c07d09bb55da8196928cd51cbf9e110536768b39295bc101d33a87106ac"
+hash = "ebd5b90f3af376f4af016ab12cc3c94341ef5c4c0b69d21ff5f0f9ee32a71dee"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -2326,7 +2326,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "c9c40abc48e25a5f3c35eff886dd71177b98c560122bb8db588467cf23c43f41"
+hash = "48084161074a44bafc83c58d41be145a62563e2c42be2455725a8fdba6c37bb4"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"

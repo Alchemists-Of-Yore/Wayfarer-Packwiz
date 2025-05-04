@@ -305,6 +305,8 @@ ServerEvents.tags("block", (event) => {
   event.add("kubejs:carryon_blacklist", "minecraft:jukebox");
   event.add("kubejs:carryon_blacklist", "minecraft:lectern");
   event.add("kubejs:carryon_blacklist", "minecraft:tripwire_hook");
+  event.add("kubejs:carryon_blacklist", "backpacks:backpack");
+  event.add("kubejs:carryon_blacklist", "create:crushing_wheel_controller");
   event.add("exposure:flashes", "create:rose_quartz_lamp");
 });
 
