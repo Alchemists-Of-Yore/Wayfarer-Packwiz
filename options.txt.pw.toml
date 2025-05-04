@@ -5,4 +5,4 @@ side = "client"
 [download]
 url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/default-options.txt"
 hash-format = "sha256"
-hash = "d957ab1f9a609fa7b178f80dc81a2d937ffe05c6851d51a3bb67a9921e128729"
+hash = "1ddbee490ad562ebff30156c14a16d8722ea8b755ff6a2da440950e9bb4f762f"
