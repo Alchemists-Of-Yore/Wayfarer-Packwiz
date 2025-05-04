@@ -1,6 +1,12 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml.pw.toml"
+hash = "f5654a1287f3609f2795c5ce49c08efb7ced6337593ef485eddefa70ded6a970"
+metafile = true
+preserve = true
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -3320,6 +3326,12 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
 metafile = true
+
+[[files]]
+file = "options.txt.pw.toml"
+hash = "1128f79242f58676d348c28bf7a1b276acaef0a3ce0ab6e3032a9daa8158186d"
+metafile = true
+preserve = true
 
 [[files]]
 file = "resourcepacks/Authentic Shadows_1.21+.zip"
