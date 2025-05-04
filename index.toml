@@ -10,15 +10,11 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/NoChatReports/NCR-Client.json"
-hash = "0c4075c00ea214df63771c8caadf641deb03b78b94f10abdc18e207bba20b967"
+hash = "a72b66e47e8d841d550db635a7fab4edfaa8d9ee9c6d4d16b1eb9e9c8b1b7d46"
 
 [[files]]
 file = "config/NoChatReports/NCR-Common.json"
 hash = "5e8063bc20d6652022fbeee40031874ea7d44971fe397aee92de678c75a0ac78"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerPreferences.json"
-hash = "df32843b853e0a493ef3a9b1e39276818294353fbb0d833f7f61e77da0f5bca1"
 
 [[files]]
 file = "config/aiimprovements-common.toml"
