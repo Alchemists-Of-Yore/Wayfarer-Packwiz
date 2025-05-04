@@ -3307,12 +3307,6 @@ hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
 metafile = true
 
 [[files]]
-file = "options.txt.pw.toml"
-hash = "b674635bf0286232aa5a5ed270bbd597a9e8de376b814e19614089e4d6c3ed05"
-metafile = true
-preserve = true
-
-[[files]]
 file = "resourcepacks/Authentic Shadows_1.21+.zip"
 hash = "304eddd463b6745449ebc74de184d48f26a1a04ae38ec6ec35a27095a5952352"
 

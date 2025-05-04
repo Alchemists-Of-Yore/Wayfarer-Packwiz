@@ -1,8 +1,0 @@
-name = "Distant Horizons"
-filename = "options.txt"
-side = "client"
-
-[download]
-url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/options.txt"
-hash-format = "sha512"
-hash = "5adb7b1f328efd2c846186827a9d79c6953e32c7c85c243d10dc85cf6be1b0dcc32c8220c0f07549a3989c54f098a726ba7c4d8a3215c55ce6798abe65e24e07"
