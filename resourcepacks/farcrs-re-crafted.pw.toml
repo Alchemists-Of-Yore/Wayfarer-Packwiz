@@ -1,0 +1,13 @@
+name = "Farcr's Re-Crafted"
+filename = "Farcr's Re-Crafted V2.19.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/FGpR5ayB/versions/T1w70fkX/Farcr%27s%20Re-Crafted%20V2.19.zip"
+hash-format = "sha512"
+hash = "07eb83331f3ec8d715963cf7410e02edf960325b9833561975cde76888f6a3f061c484f635916d0173823f956dca3c4c31c7ba277cf3b1931d6134f19fa4ebc6"
+
+[update]
+[update.modrinth]
+mod-id = "FGpR5ayB"
+version = "T1w70fkX"

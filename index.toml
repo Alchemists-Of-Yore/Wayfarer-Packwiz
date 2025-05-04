@@ -5795,5 +5795,20 @@ file = "resourcepacks/Wayfarer Pack.zip"
 hash = "1f8a699001cc1a7272fd4cb9b3327efeaf2bf9b153f3a5b367cce0a988a8cee2"
 
 [[files]]
+file = "resourcepacks/farcrs-re-crafted.pw.toml"
+hash = "fd6cc26027e4b6357ae22b456fe4b81d1d145c879431ec94cb4d7cda606b8263"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-re-create.pw.toml"
+hash = "280a2d859056df72a687ca4bb722290612620b088d6d676a15fa5a58a63aa6cf"
+metafile = true
+
+[[files]]
+file = "resourcepacks/gallery-portfolio-compat.pw.toml"
+hash = "0361af9bb2e3f912be74e719096cc3d4f495a32b76cd4b038fdc21c0f2535c98"
+metafile = true
+
+[[files]]
 file = "resourcepacks/probleyes_produce_1.4_TEST.zip"
 hash = "a6c005579fe9f5ae41a9787b493032d2b5fb3dfdad0fd70ac68b5a3f76277c68"

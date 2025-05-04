@@ -1,0 +1,13 @@
+name = "Gallery Portfolio Compat"
+filename = "GalleryPortfolioCompat1.21.1-1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/cowTKSG6/versions/iSMyjVYg/GalleryPortfolioCompat1.21.1-1.1.zip"
+hash-format = "sha512"
+hash = "edf9837c9fae4372b2285f95fd196d92c59dc7f533d14bc9dd47c36ab446660cd517b69ed7960a7d85d48651857dd146607bcd0e400cb0a4191e5d9dc18d0165"
+
+[update]
+[update.modrinth]
+mod-id = "cowTKSG6"
+version = "iSMyjVYg"
