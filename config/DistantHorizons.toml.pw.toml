@@ -5,4 +5,4 @@ side = "both"
 [download]
 url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/config/default-DistantHorizons.toml"
 hash-format = "sha256"
-hash = "1f9c0a4ec6341abae050a944bfe202d8e6959a735d11e77e9cd5d5adfd31cd19"
+hash = "db19c1c4e1cb3d26646ba95aae71f5fd0f9679cf28eaed21934458022ca8e727"
