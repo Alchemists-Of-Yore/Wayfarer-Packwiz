@@ -1,11 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml.pw.toml"
-hash = "f5654a1287f3609f2795c5ce49c08efb7ced6337593ef485eddefa70ded6a970"
-metafile = true
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
@@ -3324,11 +3319,6 @@ metafile = true
 [[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
-metafile = true
-
-[[files]]
-file = "options.txt.pw.toml"
-hash = "8f8f510a2ec4cb008b701d47c5155daf35d11808ad852a807b5b51668f0a8050"
 metafile = true
 
 [[files]]
