@@ -1,0 +1,8 @@
+name = "Distant Horizons Config"
+filename = "DistantHorizons.toml"
+side = "both"
+
+[download]
+url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/config/default-DistantHorizons.toml"
+hash-format = "sha512"
+hash = "81152e0d19555fd39fc42e7ce611ffd58dfd165b52a9007bb4511174d8e284adf636c7be74e40d2a1061bcf945d00ed2c001ec8bbbffd3bb137701d96bf8e5a9"

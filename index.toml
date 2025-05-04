@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "abf3aa8eeff8177bdb7d47d958b5a715239a556ff78f82df5311aebc9d22bfff"
+file = "config/DistantHorizons.toml.pw.toml"
+hash = "5908ee23f6a006fecfb7737c6aa81df62567cc96cfa6bc8e8731e02ce2b7ef92"
+metafile = true
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -430,7 +431,7 @@ hash = "edb48061400dd675918d7e5d1b5f0846f056ceb09f5f4eada9fa36500c9bff36"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "aea987c30f0cb753cb3628852f431aabd38b9158a37f3a41ac8f40a8a64ad9bc"
+hash = "cac057c7dba414d713157d15d5a91a6d34169eba69cd0ff2167a2a935290c96a"
 
 [[files]]
 file = "config/heyberryshutup-common.toml"
@@ -3017,6 +3018,11 @@ hash = "8b041aed68ea4b1e60100c865fd6510f18b0aa5efea7cc3cb1faab2bbe926ae1"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "34ee43795085471966b5aa3791a4475fbe537c4775c18742b50cc5a60bebacac"
+metafile = true
+
+[[files]]
 file = "mods/new_world.pw.toml"
 hash = "551052e75b9d06467b38d52c28862b671529b34a6501bafd1f66172aceb42c48"
 metafile = true
@@ -3097,6 +3103,11 @@ hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "822dcfcd3bb77baa89e2ece308272448220fbd4b214b9eb209ad2a9ae62a8276"
+metafile = true
+
+[[files]]
 file = "mods/resource-pack-overrides.pw.toml"
 hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
@@ -3169,6 +3180,11 @@ metafile = true
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
 hash = "3d003b30318f48a36bb710e8cde44d9287018d6f9c9a654c4f91e8a34b8f76b6"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "60836701056d953e872efb636dd1e293b48fc16b61502cd17590484c292effaa"
 metafile = true
 
 [[files]]
@@ -3308,6 +3324,11 @@ metafile = true
 [[files]]
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
+metafile = true
+
+[[files]]
+file = "options.txt.pw.toml"
+hash = "5dbec8e9b7e910411e910b19ab8964dba46124fadfcf422d14674bd42c6afcc9"
 metafile = true
 
 [[files]]
