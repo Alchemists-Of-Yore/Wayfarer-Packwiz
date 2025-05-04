@@ -1,8 +1,9 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "abf3aa8eeff8177bdb7d47d958b5a715239a556ff78f82df5311aebc9d22bfff"
+file = "config/DistantHorizons.toml.pw.toml"
+hash = "e2a9b0eac80f0c2ebfad9682e75ba30c982b4f4ec33888bc1f382640309e57d5"
+metafile = true
 
 [[files]]
 file = "config/MouseTweaks.cfg"
@@ -339,10 +340,6 @@ hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 [[files]]
 file = "config/fancymenu/legacy_checklist.txt"
 hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
-file = "config/fancymenu/options.txt"
-hash = "308725cd62142523f892f8cdbaf3e1d7d3096e86c19a7a5d0a70fe13d58ff657"
 
 [[files]]
 file = "config/fancymenu/panoramas/default/panorama/panorama_0.png"
@@ -3222,6 +3219,11 @@ hash = "3c6d9d736ddaaf332b5a0aabbbbf9b13680e55ef3b4ca0cec8fcf8e77f0b912e"
 metafile = true
 
 [[files]]
+file = "mods/toastbegone.pw.toml"
+hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
+metafile = true
+
+[[files]]
 file = "mods/true-darkness-biomes.pw.toml"
 hash = "45a47531d9a4ce40092aaf22284ef4aa04e3049561c9b82bdf6fbbb790bcc0e9"
 metafile = true
@@ -3304,6 +3306,12 @@ metafile = true
 file = "mods/zombie-horse-spawn.pw.toml"
 hash = "00d526cce73b07b36e149053d91da1bcd729b1929f6cc8d2b9d5db53dd3d5fba"
 metafile = true
+
+[[files]]
+file = "options.txt.pw.toml"
+hash = "b674635bf0286232aa5a5ed270bbd597a9e8de376b814e19614089e4d6c3ed05"
+metafile = true
+preserve = true
 
 [[files]]
 file = "resourcepacks/Authentic Shadows_1.21+.zip"
