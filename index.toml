@@ -2352,7 +2352,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "512c40420cb99b50aca9ea1a61c42f98725c0f464ecd63c7ac974f9024cfd825"
+hash = "87d0381f1734cac77013332a2f93cc1e4ee92b5141282aa609a9be137f2851bb"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -3337,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfarer_core.jar"
-hash = "27066c1d5e71e840ed13f6a5dcc14fe6a1b5580c9ce149d6488ffc572860cec8"
+hash = "d77cae221ec74a54b2448010ba1d49ea2c716de9f6549d24fa131cd42c37e4b7"
 
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"

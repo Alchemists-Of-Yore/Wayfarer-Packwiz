@@ -162,6 +162,10 @@ ServerEvents.recipes((event) => {
     G: "minecraft:iron_ingot",
   });
 
+  event.shaped("wayfarer_core:crucible", ["T T", "T T", "TTT"], {
+    T: "terracotta",
+  });
+
   event.remove({ id: "minecraft:bone_meal" });
   event.custom({
     type: "farmersdelight:cutting",
