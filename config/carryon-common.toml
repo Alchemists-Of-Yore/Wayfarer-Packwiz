@@ -3,15 +3,15 @@
 	#Maximum distance from where Blocks and Entities can be picked up
 	# Default: 2.5
 	# Range: 0.0 ~ 1.7976931348623157E308
-	maxDistance = 2.0
+	maxDistance = 2.5
 	#Max width of entities that can be picked up in survival mode
 	# Default: 1.5
 	# Range: 0.0 ~ 10.0
-	maxEntityWidth = 1
+	maxEntityWidth = 1.5
 	#Max height of entities that can be picked up in survival mode
 	# Default: 2.5
 	# Range: 0.0 ~ 10.0
-	maxEntityHeight = 1
+	maxEntityHeight = 2.5
 	#Slowness multiplier for blocks
 	# Default: 1.0
 	# Range: 0.0 ~ 1.7976931348623157E308
@@ -63,7 +63,7 @@
 		"minecraft:oak_trapdoor[half]"
 	]
 	#Whether Players can be picked up. Creative players can't be picked up in Survival Mode
-	pickupPlayers = false
+	pickupPlayers = true
 	#Whether players in Survival Mode can pick up unbreakable blocks. Creative players always can.
 	pickupUnbreakableBlocks = false
 
@@ -116,7 +116,8 @@
 	"minecraft:armor_stand", 
 	"minecraft:item_frame", 
 	"minecraft:painting", 
-	"minecraft:shulker_bullet"
+	"minecraft:shulker_bullet",
+	"exposure:camera_stand"
 	]
 	#Entities that cannot have other entities stacked on top of them
 	forbiddenStacking = [

@@ -1,0 +1,13 @@
+name = "Llama's Re-Wrench"
+filename = "Llama's Re-Wrench Cog V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZZolC5et/versions/sxIlnO4C/Llama%27s%20Re-Wrench%20Cog%20V1.1.zip"
+hash-format = "sha512"
+hash = "3c374f8d7efe25c0d724e3be94fe9b896aadc3c11a28dde0ca79d37a4f6992531ed577d6a38127bf02196ceee4aa3ba9ca07d38b168fd0d6888275e6cd4cf671"
+
+[update]
+[update.modrinth]
+mod-id = "ZZolC5et"
+version = "sxIlnO4C"

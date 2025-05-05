@@ -123,7 +123,7 @@ hash = "eedd6195066dd8650e919479b5dec4df40ec2111c1fb3235c3c125f005983eed"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "5547d2675160a525d4faeb24ca1c99899347317951fe7c5b1a03afa06aa40ea8"
+hash = "e5c01dd6ba5f8a3f2479809ac21979903a76c6c76914e1abd035a5f02adac9dc"
 
 [[files]]
 file = "config/chalk-client.toml"
@@ -2348,7 +2348,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "48084161074a44bafc83c58d41be145a62563e2c42be2455725a8fdba6c37bb4"
+hash = "0ff642b483d128ee8a40655a80a305ac8ebe924a4b77906295b8aaf74112248a"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -3381,6 +3381,21 @@ file = "resourcepacks/Wayfarer Pack.zip"
 hash = "1f8a699001cc1a7272fd4cb9b3327efeaf2bf9b153f3a5b367cce0a988a8cee2"
 
 [[files]]
+file = "resourcepacks/authentic-shadows.pw.toml"
+hash = "74b39d3c7f012e9332a20ac78fa6c357b227caccd6322049fb451ff2bef08c3a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/detail-brush.pw.toml"
+hash = "c1693318b2a8aab90324bf027e6d9c74cd7ced0d6ff6cc432ecd6463cc3751ff"
+metafile = true
+
+[[files]]
+file = "resourcepacks/farcrs-better-dirt.pw.toml"
+hash = "248031494f50b140e19984b9f4e29ea1a4a02f2658d2525df2efd5fe95fce85d"
+metafile = true
+
+[[files]]
 file = "resourcepacks/farcrs-re-crafted.pw.toml"
 hash = "fd6cc26027e4b6357ae22b456fe4b81d1d145c879431ec94cb4d7cda606b8263"
 metafile = true
@@ -3393,6 +3408,21 @@ metafile = true
 [[files]]
 file = "resourcepacks/gallery-portfolio-compat.pw.toml"
 hash = "0361af9bb2e3f912be74e719096cc3d4f495a32b76cd4b038fdc21c0f2535c98"
+metafile = true
+
+[[files]]
+file = "resourcepacks/llamas-re-wrench.pw.toml"
+hash = "70de416b802e3fb6df5d6244078280835021ca91038b84a5a307e83808c9b619"
+metafile = true
+
+[[files]]
+file = "resourcepacks/nibble-bits.pw.toml"
+hash = "2e037924c99b30e91c09d44fb1790fceb5e2cc8743cdd768908a3a16804f390e"
+metafile = true
+
+[[files]]
+file = "resourcepacks/probleyes-produce.pw.toml"
+hash = "4b061168d02ff5f12abf7daa85294c5cd04d45d51a21672340cd058c42626731"
 metafile = true
 
 [[files]]
