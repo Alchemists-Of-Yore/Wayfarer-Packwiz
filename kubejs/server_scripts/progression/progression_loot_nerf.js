@@ -1,6 +1,6 @@
 LootJS.modifiers((event) => {
   event
-    .addTableModifier(/.*/)
+    .addTableModifier("chest")
     .replaceLoot("minecraft:enchanted_book", "minecraft:emerald", true)
 
     .replaceLoot("minecraft:iron_pickaxe", "kubejs:bronze_pickaxe", true)

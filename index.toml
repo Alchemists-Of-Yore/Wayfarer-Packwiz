@@ -651,7 +651,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "2d781b7ae64c5f67023bbfcbcd4a3dc8a104cc3433ace3f9ffcbd448526d133f"
+hash = "b47733721c968eecb441a1fea2d1fcc4594d1627271a8088ff9a0a50f52d6fd0"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -2312,7 +2312,7 @@ hash = "06a045ccb0b2bd923dddcf8688b6dea601a049450f41af6bcac7a582a2d6ad1a"
 
 [[files]]
 file = "kubejs/server_scripts/TEMP.js"
-hash = "092125c855470a2ca179396b15a0ee4e6f263112580489baa1697307cd2a0419"
+hash = "3a85082f6d71570f23d072f3cee7aaec442ffdfab21b98fd29822cbba6543656"
 
 [[files]]
 file = "kubejs/server_scripts/building.js"
@@ -2352,7 +2352,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "0ff642b483d128ee8a40655a80a305ac8ebe924a4b77906295b8aaf74112248a"
+hash = "512c40420cb99b50aca9ea1a61c42f98725c0f464ecd63c7ac974f9024cfd825"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -2371,6 +2371,10 @@ file = "kubejs/server_scripts/progression/extra_bones_with_knife.js"
 hash = "6b7630a21338bb198fcf788dc5ba9f70f90d4942bbe7c886636a4338b236c6e8"
 
 [[files]]
+file = "kubejs/server_scripts/progression/metallurgy.js"
+hash = "ed7777771d9b9c16e7e2bda7ddacebb76d2a33aa963a38260d7d70e7475cdb94"
+
+[[files]]
 file = "kubejs/server_scripts/progression/no_more_enchantments.js"
 hash = "1187038f653ed9d045b3115c4bf3460b045913899cfac7095e7bffc8f328031c"
 
@@ -2380,7 +2384,7 @@ hash = "8426a83c8a81f570ba9dbbc1ff9ae0e8f9c857fe004d098048e6723da8b5e02c"
 
 [[files]]
 file = "kubejs/server_scripts/progression/progression_loot_nerf.js"
-hash = "fa290ba2d4208b6a3ed5779a0693c50664249a4fa1f7f5531318084703569a07"
+hash = "8666999715f777e5f1dad2fe8cd05b3f9bc996709a1bc9ff889c268c4c527e68"
 
 [[files]]
 file = "kubejs/server_scripts/progression/raw_hide.js"
@@ -2400,7 +2404,7 @@ hash = "7b3fe67f28bb4b876a41214e616f736a8ad282e2e09af530891a42efc9f63446"
 
 [[files]]
 file = "kubejs/server_scripts/progression/tin.js"
-hash = "d2c1ad100921b7358450cad8cdfc01fedc9dfbb243bf8f267b251727aaddf669"
+hash = "923d62fb9c286bc2c384876b1741a4f3e0cb61888bc1efe75617cc60153b992b"
 
 [[files]]
 file = "kubejs/server_scripts/rails.js"
@@ -2776,7 +2780,7 @@ metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "49a1d1100c21525a63ce2f956588c2f8c79949481a2e009c77457a5b7e53df24"
+hash = "6220ce03005aba2e49e367f31bd0951529e8c090cb6ccfcdd5abecb4495963af"
 metafile = true
 
 [[files]]
@@ -3142,6 +3146,11 @@ hash = "b8101dca20d054277d99e75b43dd8db44dea64a761d2ab69fdda9f6d59d9e6f1"
 metafile = true
 
 [[files]]
+file = "mods/respawning-animals.pw.toml"
+hash = "af1c1601c69521614dcae93dcc7ef8815d10416d2e46548931d2658fdd8c088f"
+metafile = true
+
+[[files]]
 file = "mods/rhino.pw.toml"
 hash = "4c4185186dccb224e20da04103e40c32cfe11b8c6884b83e8d6ac60857daf969"
 metafile = true
@@ -3328,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfarer_core.jar"
-hash = "cc67339423c2f8b168965b228dbd223c84e34c92f7913c1b7cb438b411986aba"
+hash = "27066c1d5e71e840ed13f6a5dcc14fe6a1b5580c9ce149d6488ffc572860cec8"
 
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
@@ -3365,7 +3374,7 @@ file = "resourcepacks/Soft-Weather-1.0-1.20.zip"
 hash = "456cd5c50c82b8c870208a63b8ccdbbd5345dc0104cbf6fce700fd32032d93da"
 
 [[files]]
-file = "resourcepacks/Wayfarer Pack.zip"
+file = "resourcepacks/Wayfarer-Pack.zip"
 hash = "1f8a699001cc1a7272fd4cb9b3327efeaf2bf9b153f3a5b367cce0a988a8cee2"
 
 [[files]]

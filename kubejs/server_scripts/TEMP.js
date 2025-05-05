@@ -1,9 +1,4 @@
 ServerEvents.recipes((event) => {
-  event.shapeless("1x kubejs:bronze_ingot", [
-    "kubejs:tin_ingot",
-    "minecraft:copper_ingot",
-  ]);
-
   event.shapeless("1x kubejs:steel_ingot", [
     "kubejs:coke_coal",
     "kubejs:coke_coal",

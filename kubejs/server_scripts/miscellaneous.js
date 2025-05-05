@@ -20,7 +20,7 @@ ServerEvents.recipes((event) => {
   event.remove({ id: "incubation:hay_nest" });
   event.shaped("incubation:hay_nest", ["   ", "S S", "SBS"], {
     S: "minecraft:wheat",
-    B: "minecraft:hay_block"
+    B: "minecraft:hay_block",
   });
   event.remove({ id: "brewinandchewin:ice_crate" });
   event.shaped("brewinandchewin:ice_crate", ["PMP", "MCM", "PMP"], {
@@ -295,20 +295,14 @@ ServerEvents.tags("item", (event) => {
 ServerEvents.tags("block", (event) => {
   event.removeAll("minecraft:fall_damage_resetting");
   event.removeAll("minecraft:enderman_holdable");
+  event.add("exposure:flashes", "create:rose_quartz_lamp");
   event.add("supplementaries:map_tint_grass_color", "nomansland:grass_sprouts");
   event.add("supplementaries:map_tint_grass_color", "nomansland:oat_grass");
   event.add("supplementaries:map_tint_grass_color", "#minecraft:small_flowers");
   event.add("supplementaries:map_tint_grass_color", "#c:mushrooms");
   event.add("supplementaries:map_tint_grass_color", "#c:mushrooms");
-  event.add("kubejs:carryon_blacklist", "brewinandchewin:coaster");
-  event.add("kubejs:carryon_blacklist", "farmersdelight:cutting_board");
-  event.add("kubejs:carryon_blacklist", "minecraft:jukebox");
-  event.add("kubejs:carryon_blacklist", "minecraft:lectern");
-  event.add("kubejs:carryon_blacklist", "minecraft:tripwire_hook");
-  event.add("kubejs:carryon_blacklist", "backpacks:backpack");
-  event.add("kubejs:carryon_blacklist", "create:crushing_wheel_controller");
-  event.add("kubejs:carryon_blacklist", "nomansland:tap")
-  event.add("exposure:flashes", "create:rose_quartz_lamp");
+  event.add("kubejs:carryon_whitelist", "decorated_pot");
+  event.add("kubejs:carryon_whitelist", "pot");
 });
 
 LootJS.modifiers((event) => {
