@@ -651,7 +651,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ebd5b90f3af376f4af016ab12cc3c94341ef5c4c0b69d21ff5f0f9ee32a71dee"
+hash = "2d781b7ae64c5f67023bbfcbcd4a3dc8a104cc3433ace3f9ffcbd448526d133f"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -801,6 +801,10 @@ hash = "21d8327d38ef28991ea32ceda874814f84bdc793879d198c8e581a65a9855fb6"
 [[files]]
 file = "config/tectonic.json"
 hash = "d10d0d3100d70293a91e49cd606d44c92d6d3fa94f628ccc5670f77a787c7b48"
+
+[[files]]
+file = "config/toastbegone.toml"
+hash = "91e5bac7b4715a24bedebafa8e1b71a346a52de1ce88b128f0e6fa748be65b36"
 
 [[files]]
 file = "config/undergarden-client.toml"
@@ -2994,6 +2998,10 @@ hash = "771a5c436b7268c0c3f1a2dfcb804f317ca70577202973ddc4bce2b4704845b6"
 metafile = true
 
 [[files]]
+file = "mods/mannequins-3.0.0.jar"
+hash = "84326a153f82b1fdb70023e874359b8733597388da128dd224ac957e3ba0f796"
+
+[[files]]
 file = "mods/map-atlases-forge.pw.toml"
 hash = "527d67c3be0a653c50cc2f992f0f764f13f6670aa1296f7d6c63dd1ea2a553ca"
 metafile = true
@@ -3353,26 +3361,6 @@ hash = "6f84ccb3379e724b45844df0a88cbb739023cbe0a2b78822a0e32f199d27afa4"
 preserve = true
 
 [[files]]
-file = "resourcepacks/Authentic Shadows_1.21+.zip"
-hash = "304eddd463b6745449ebc74de184d48f26a1a04ae38ec6ec35a27095a5952352"
-
-[[files]]
-file = "resourcepacks/Detail-Brush-1.6-1.20.zip"
-hash = "15a7cbac22ffa645aec3e0acbe72189d63064baa8e3ead8bf5085304fe85fb22"
-
-[[files]]
-file = "resourcepacks/Farcr's Better Dirt V1.2.zip"
-hash = "1187a0999bf92062c07f76847ae5c54514f31d3cca235b1c25fdd56335d8e6d1"
-
-[[files]]
-file = "resourcepacks/Llama's Re-Wrench Cog V1.1.zip"
-hash = "7e5746fb5a1cd3525ce0e2a8ed479e0248e00d0fb3c5410328139e3b88b791cc"
-
-[[files]]
-file = "resourcepacks/Nibble Bits v1.0.zip"
-hash = "7e3f43274d5f62467c7cdf18a76f050bf3ab9a8b90288c5970d7ae6cbf3b2d09"
-
-[[files]]
 file = "resourcepacks/Soft-Weather-1.0-1.20.zip"
 hash = "456cd5c50c82b8c870208a63b8ccdbbd5345dc0104cbf6fce700fd32032d93da"
 
@@ -3424,7 +3412,3 @@ metafile = true
 file = "resourcepacks/probleyes-produce.pw.toml"
 hash = "4b061168d02ff5f12abf7daa85294c5cd04d45d51a21672340cd058c42626731"
 metafile = true
-
-[[files]]
-file = "resourcepacks/probleyes_produce_1.4_TEST.zip"
-hash = "a6c005579fe9f5ae41a9787b493032d2b5fb3dfdad0fd70ac68b5a3f76277c68"
