@@ -1,0 +1,40 @@
+{
+  "item.minecraft.rabbit_hide": "Raw Hide",
+
+  "item.minecraft.diamond_ingot": "Steel Ingot",
+  "item.minecraft.diamond_sword": "Steel Sword",
+  "item.minecraft.diamond_pickaxe": "Steel Pickaxe",
+  "item.minecraft.diamond_hoe": "Steel Hoe",
+  "item.minecraft.diamond_axe": "Steel Axe",
+  "item.minecraft.diamond_shovel": "Steel Shovel",
+  "item.minecraft.diamond_helmet": "Steel Helmet",
+  "item.minecraft.diamond_chestplate": "Steel Chestplate",
+  "item.minecraft.diamond_leggings": "Steel Leggings",
+  "item.minecraft.diamond_boots": "Steel Boots",
+
+  "item.minecraft.bone_meal": "Fertilizer",
+
+  "block.minecraft.smoker": "Oven",
+  "block.minecraft.blast_furnace": "Smeltery",
+  "container.smoker": "Oven",
+  "container.blast_furnace": "Smeltery",
+
+  "block.minecraft.copper_block": "Copper Plating",
+  "block.minecraft.waxed_copper_block": "Waxed Copper Plating",
+
+  "block.minecraft.iron_door": "Blast Door",
+  "block.minecraft.iron_trapdoor": "Blast Trapdoor",
+
+  "item.minecraft.pufferfish": "Blowfish",
+  "item.minecraft.pufferfish_bucket": "Bucket of Blowfish",
+  "item.minecraft.pufferfish_spawn_egg": "Blowfish Spawn Egg",
+  "entity.minecraft.pufferfish": "Blowfish",
+
+  "item.minecraft.netherite_scrap": "Ancient Scrap",
+  "item.minecraft.netherite_helmet": "Scrap Helmet",
+  "item.minecraft.netherite_chestplate": "Scrap Chestplate",
+  "item.minecraft.netherite_leggings": "Scrap Leggings",
+  "item.minecraft.netherite_boots": "Scrap Boots",
+
+  "item.minecraft.flint_and_steel": "Firestarter"
+}

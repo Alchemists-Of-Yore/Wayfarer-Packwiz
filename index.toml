@@ -1335,6 +1335,10 @@ file = "kubejs/assets/kubejs/textures/item/wayfarer_notes.png"
 hash = "c914bed9941859df26f5d922afad6ce4786668d49a6ca3186de1403e69535d0e"
 
 [[files]]
+file = "kubejs/assets/minecraft/lang/en_us.json"
+hash = "c13d12808188e78ca79ad9ae773ac45d117467b6d683ea9d64ce335a20129dc4"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/block/bell_bottom.png"
 hash = "6cd755512955a4a4c8d4baf33eb28f99155d0c7084f6705ed0010acf7cc512cd"
 
