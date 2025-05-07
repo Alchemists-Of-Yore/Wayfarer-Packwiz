@@ -294,6 +294,15 @@ ServerEvents.tags("item", (event) => {
 
   event.add("kubejs:water_crafting", "minecraft:potion");
   event.add("kubejs:water_crafting", "minecraft:water_bucket");
+
+  event.add("kubejs:tin", "kubejs:raw_tin");
+  event.add("kubejs:tin", "kubejs:tin_ingot");
+
+  event.add("kubejs:copper", "minecraft:raw_copper");
+  event.add("kubejs:copper", "minecraft:copper_ingot");
+
+  event.add("kubejs:zinc", "create:raw_zinc");
+  event.add("kubejs:zinc", "create:zinc_ingot");
 });
 
 ServerEvents.tags("block", (event) => {
@@ -307,6 +316,14 @@ ServerEvents.tags("block", (event) => {
   event.add("supplementaries:map_tint_grass_color", "#c:mushrooms");
   event.add("kubejs:carryon_whitelist", "decorated_pot");
   event.add("kubejs:carryon_whitelist", "pot");
+  event.add("kubejs:carryon_whitelist", "chest");
+  event.add("kubejs:carryon_whitelist", "furnace");
+  event.add("kubejs:carryon_whitelist", "crafting_table");
+  event.add("kubejs:carryon_whitelist", "smoker");
+  event.add("kubejs:carryon_whitelist", "blast_furnace");
+  event.add("kubejs:carryon_whitelist", "brewinandchewin:keg");
+  event.add("kubejs:carryon_whitelist", "stonecutter");
+  event.add("kubejs:carryon_whitelist", "barrel");
 });
 
 LootJS.modifiers((event) => {

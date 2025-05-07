@@ -65,63 +65,69 @@ StartupEvents.registry("block", (event) => {
     .create("bronze_block")
     .tagBlock("minecraft:mineable/pickaxe")
     .soundType("metal")
-    .hardness(1.0)
-    .resistance(1.0);
+    .hardness(3)
+    .resistance(6);
   event
     .create("copper_block")
     .tagBlock("minecraft:mineable/pickaxe")
     .soundType("copper")
     .displayName("Block of Copper")
-    .hardness(1.0)
-    .resistance(1.0);
+    .hardness(3)
+    .resistance(6);
   event
     .create("steel_block")
     .tagBlock("minecraft:mineable/pickaxe")
     .displayName("Block of Steel")
     .soundType("metal")
-    .hardness(1.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .hardness(5) // Set hardness (affects mining time)
+    .resistance(6);
   event
     .create("tin_block")
     .tagBlock("minecraft:mineable/pickaxe")
     .soundType("metal")
     .hardness(1.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .resistance(6);
   event
     .create("tin_ore")
     .tagBlock("minecraft:mineable/pickaxe")
     .requiresTool(true)
     .soundType("stone")
     .hardness(2.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .resistance(6);
   event
     .create("deepslate_tin_ore")
     .tagBlock("minecraft:mineable/pickaxe")
     .requiresTool(true)
     .soundType("deepslate")
     .hardness(3.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .resistance(6);
 
-    event
+  event
+    .create("raw_silver_block")
+    .tagBlock("minecraft:mineable/pickaxe")
+    .displayName("Block of Raw Silver")
+    .hardness(5)
+    .reesistance(6);
+  event
     .create("silver_block")
     .tagBlock("minecraft:mineable/pickaxe")
     .soundType("metal")
-    .hardness(5.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .hardness(5) // Set hardness (affects mining time)
+    .resistance(6);
   event
     .create("silver_ore")
     .tagBlock("minecraft:mineable/pickaxe")
     .requiresTool(true)
     .soundType("stone")
-    .hardness(5.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .hardness(5) // Set hardness (affects mining time)
+    .resistance(6);
   event
     .create("deepslate_silver_ore")
     .tagBlock("minecraft:mineable/pickaxe")
     .requiresTool(true)
     .soundType("deepslate")
-    .hardness(6.0) // Set hardness (affects mining time)
-    .resistance(1.0);
+    .hardness(6) // Set hardness (affects mining time)
+    .resistance(6);
 });
 //StartupEvents.modifyCreativeTab('minecraft:tools_and_utilities', event => {
 //  event.addAfter('minecraft:stone_shovel', 'kubejs:bronze_shovel')

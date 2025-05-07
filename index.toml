@@ -123,7 +123,7 @@ hash = "eedd6195066dd8650e919479b5dec4df40ec2111c1fb3235c3c125f005983eed"
 
 [[files]]
 file = "config/carryon-common.toml"
-hash = "e5c01dd6ba5f8a3f2479809ac21979903a76c6c76914e1abd035a5f02adac9dc"
+hash = "b48568ae89e68985a5f893c7d6a27e8538fc4db6e7c949b8ce5832872425cb1e"
 
 [[files]]
 file = "config/chalk-client.toml"
@@ -963,6 +963,10 @@ file = "kubejs/assets/kubejs/textures/block/nothing.png"
 hash = "f1cc89aec51b56f39517031e12069a383dd4b291df1e752fcf51944d276d49a3"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/block/raw_silver_block.png"
+hash = "9352b3a9b53f5c2b03d49e31a1c2fd89100fbd4556e6d82a366b498290be0a5e"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/block/silver_block.png"
 hash = "666db57625140719f8507a7d834abb54e45d64e50a015e7e0f1a3ed049a8908b"
 
@@ -1329,10 +1333,6 @@ hash = "3868d0ebb0f3ee03f9b9b0ac2247bb0e89a79a0f8f5ebbde49cf99a8b81c1db1"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/wayfarer_notes.png"
 hash = "c914bed9941859df26f5d922afad6ce4786668d49a6ca3186de1403e69535d0e"
-
-[[files]]
-file = "kubejs/assets/minecraft/lang/en_us.json"
-hash = "c13d12808188e78ca79ad9ae773ac45d117467b6d683ea9d64ce335a20129dc4"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/block/bell_bottom.png"
@@ -2352,7 +2352,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "87d0381f1734cac77013332a2f93cc1e4ee92b5141282aa609a9be137f2851bb"
+hash = "4302109d6f62d34c92012253ee670fbaa22a0aac849cd010d88e9de2c4e31dc1"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -2372,7 +2372,7 @@ hash = "6b7630a21338bb198fcf788dc5ba9f70f90d4942bbe7c886636a4338b236c6e8"
 
 [[files]]
 file = "kubejs/server_scripts/progression/metallurgy.js"
-hash = "ed7777771d9b9c16e7e2bda7ddacebb76d2a33aa963a38260d7d70e7475cdb94"
+hash = "1333e6c72da786d60c5e0e2d904531ba23e3d5623d501b6f3a01085a2d9d5b1c"
 
 [[files]]
 file = "kubejs/server_scripts/progression/no_more_enchantments.js"
@@ -2392,7 +2392,7 @@ hash = "ec4820f4c512c6e80be03e07489c7bbb0faaf72d7739e409194b8aba7e16e54f"
 
 [[files]]
 file = "kubejs/server_scripts/progression/silver.js"
-hash = "84a6cc6439a68e3b68d25c5b8a10ed85b0e8789d5a7af9ce69a99ba4bff4cf94"
+hash = "7cdd9252f5573a589cc143c21c730cc85d4b71bb26f1ef63a13dc4a8b805d9c8"
 
 [[files]]
 file = "kubejs/server_scripts/progression/smithing.js"
@@ -2464,7 +2464,7 @@ hash = "14bc9e0b269a7d7a489fb72d4e7713ae9776d15e442c8cb050d09922f19993f9"
 
 [[files]]
 file = "kubejs/startup_scripts/metallurgy_registry.js"
-hash = "6f17a7b9b2a4f11c8fae82d7a205c685bfb831400ee4b44fe936738eefed20a2"
+hash = "6981a8136ba87769f106980865b3ad7240b2f19124e532b35fedb1459cf4b36d"
 
 [[files]]
 file = "kubejs/startup_scripts/modify_steel_tier.js"
@@ -3337,7 +3337,7 @@ metafile = true
 
 [[files]]
 file = "mods/wayfarer_core.jar"
-hash = "d77cae221ec74a54b2448010ba1d49ea2c716de9f6549d24fa131cd42c37e4b7"
+hash = "f159eb21c42e1a4c076c87ff1661b1f3a60cdaeb5a1ef5f0224f0c83ac8cf53e"
 
 [[files]]
 file = "mods/weaker-spiderwebs.pw.toml"
