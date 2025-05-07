@@ -2468,7 +2468,7 @@ hash = "14bc9e0b269a7d7a489fb72d4e7713ae9776d15e442c8cb050d09922f19993f9"
 
 [[files]]
 file = "kubejs/startup_scripts/metallurgy_registry.js"
-hash = "6981a8136ba87769f106980865b3ad7240b2f19124e532b35fedb1459cf4b36d"
+hash = "970f4c34af7039107e692e22e67cc6d0d139568a2e12661dacab1d57217630c1"
 
 [[files]]
 file = "kubejs/startup_scripts/modify_steel_tier.js"

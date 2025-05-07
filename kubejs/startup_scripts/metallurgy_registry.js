@@ -107,7 +107,7 @@ StartupEvents.registry("block", (event) => {
     .tagBlock("minecraft:mineable/pickaxe")
     .displayName("Block of Raw Silver")
     .hardness(5)
-    .reesistance(6);
+    .resistance(6);
   event
     .create("silver_block")
     .tagBlock("minecraft:mineable/pickaxe")
