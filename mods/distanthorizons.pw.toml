@@ -5,7 +5,7 @@ side = "both"
 [option]
 optional = true
 default = true
-description = "Disable for higher performance"
+description = "See farther without turning your game into a slide show. Disable for higher performance"
 
 [download]
 url = "https://cdn.modrinth.com/data/uCdwusMi/versions/jkSxZOJh/DistantHorizons-neoforge-fabric-2.3.2-b-1.21.1.jar"

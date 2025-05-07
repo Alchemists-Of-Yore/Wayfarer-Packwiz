@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
-description = "Raises the hotbar by a few pixels"
+description = "Allows adjusting the hotbar position"
 
 [download]
 url = "https://cdn.modrinth.com/data/nCQRBEiR/versions/Cr0vV65c/raised-neoforge-1.21.1-4.0.1.jar"

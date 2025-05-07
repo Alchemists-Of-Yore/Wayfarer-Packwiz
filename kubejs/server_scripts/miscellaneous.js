@@ -235,6 +235,10 @@ ServerEvents.recipes((event) => {
     G: "gunpowder",
   });
 
+  event.shaped("kubejs:raw_silver_block", ["RRR", "RRR", "RRR"], {
+    R: "kubejs:raw_silver",
+  });
+
   event.remove({
     id: "brewinandchewin:fermenting/glittering_grenadine_from_water",
   });

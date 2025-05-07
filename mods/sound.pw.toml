@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Adds extra sounds to the game that may be too much"
+description = "Adds a wide range of new and improved sound effects"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/dbIWcJvs/sounds-2.4.11%2B1.21.1%2Bneoforge.jar"
