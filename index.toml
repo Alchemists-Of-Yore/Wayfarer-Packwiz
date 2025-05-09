@@ -2356,7 +2356,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "93d1b71d76b29d7838573601cc8c398627031c99182923d1bad321f2a37b37ec"
+hash = "786722366b0ea69f8b1a3c72bce7d0dca94589707083e9177c93f2d95540b8f1"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -2468,7 +2468,7 @@ hash = "14bc9e0b269a7d7a489fb72d4e7713ae9776d15e442c8cb050d09922f19993f9"
 
 [[files]]
 file = "kubejs/startup_scripts/metallurgy_registry.js"
-hash = "d135101ec94bb45164844d1c8a6c1bf8828ff1c0af1a6d86b0d90d7a263deb4d"
+hash = "6742967bb0351c23311e3721cb74030dae1719a3af3bde3a531a5979be61a07d"
 
 [[files]]
 file = "kubejs/startup_scripts/modify_steel_tier.js"

@@ -111,14 +111,14 @@ StartupEvents.registry("block", (event) => {
     .hardness(5)
     .resistance(6);
 
-  event
-    .create("raw_tin_block")
-    .tagBlock("minecraft:mineable/pickaxe")
-    .tagBlock("c:storage_blocks/raw_tin")
-    .tagBlock("c:storage_blocks")
-    .displayName("Block of Raw Tin")
-    .hardness(5)
-    .resistance(6);
+  // event
+  //   .create("raw_tin_block")
+  //   .tagBlock("minecraft:mineable/pickaxe")
+  //   .tagBlock("c:storage_blocks/raw_tin")
+  //   .tagBlock("c:storage_blocks")
+  //   .displayName("Block of Raw Tin")
+  //   .hardness(5)
+  //   .resistance(6);
   event
     .create("silver_block")
     .tagBlock("minecraft:mineable/pickaxe")
