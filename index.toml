@@ -2468,7 +2468,7 @@ hash = "14bc9e0b269a7d7a489fb72d4e7713ae9776d15e442c8cb050d09922f19993f9"
 
 [[files]]
 file = "kubejs/startup_scripts/metallurgy_registry.js"
-hash = "6742967bb0351c23311e3721cb74030dae1719a3af3bde3a531a5979be61a07d"
+hash = "d135101ec94bb45164844d1c8a6c1bf8828ff1c0af1a6d86b0d90d7a263deb4d"
 
 [[files]]
 file = "kubejs/startup_scripts/modify_steel_tier.js"
@@ -2524,17 +2524,17 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "44315dbb081027a40b692023950c60199b6fa9d0a2f9943e74721dcab7a11f63"
+hash = "d950acb197c0c484dde012daba41357128cc52c8a9cc3c6f0f830e5379df487f"
 metafile = true
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
-hash = "eb20f9616066b15db72a911d64265b99fce6ca9585efacd662c2d52e43105c0a"
+hash = "1d0118e591b73f05d94f75663955730e4253c7ac56231e0e9c4b349926b7ecd2"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "081fe633c2c73b0d5e37a81d3973502d563f5d545246fde0510a2004ece78f95"
+hash = "c0d18ec0bdd9b50d1982ea8b5191c15291eda08570c63a08c7792474e443a148"
 metafile = true
 
 [[files]]
@@ -2794,7 +2794,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "cd9c8153bf903c0f86cfa8e91d8fe3d715ce717ca21b02f2e09253910ca2fe0b"
+hash = "9709fcd0b100ec7848e853efc0c9f4452537c2de2665e09ad8e7fb94b8fe4b8e"
 metafile = true
 
 [[files]]
@@ -2824,7 +2824,7 @@ metafile = true
 
 [[files]]
 file = "mods/every-compat.pw.toml"
-hash = "4f0a337c47e8f805704990a3af3840faff47ebcf5fdfb11067e9599ad7295745"
+hash = "e29ca04a495a69daa4af76fe0e54d8b582ba212a268710e25bb1b5cdb6b7da70"
 metafile = true
 
 [[files]]
@@ -2859,7 +2859,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "abdd72d70ba923484bb610fcecf0ab894633cb27484147ae02fa01221892a8bd"
+hash = "18da935843e3c4ab1977b2938742ec9f1ea33e557fa34ce36c710eacd77c378a"
 metafile = true
 
 [[files]]
@@ -2948,7 +2948,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-aircraft.pw.toml"
-hash = "4671a699d5d182d4ac4ddaa4185bd953aeae56f1685491715ed3e2ccc86f1631"
+hash = "80b8f5ac81313635f3829c0bfc1be0c82190cd5eeb2bd0f74039548f5d300ecc"
 metafile = true
 
 [[files]]
@@ -2988,7 +2988,7 @@ metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "0033c5a00c46d5d7b6cf77b19fa76ce5c78a613f3128dcadb3588fa5841ae489"
+hash = "0a983d1515e1713d1a0ae7738091909101c368be2726a446e4ca29c62fe555c2"
 metafile = true
 
 [[files]]
@@ -3051,6 +3051,11 @@ hash = "9dff522b00f5269538d0351536f34b22384996de30be454ef1369f1b1e5c1aeb"
 metafile = true
 
 [[files]]
+file = "mods/minecraft-cursor.pw.toml"
+hash = "7563aab7e0c4911ddaf943dfb5e68f27127123df74332909dd7783711f493437"
+metafile = true
+
+[[files]]
 file = "mods/mixed-litter.pw.toml"
 hash = "c01c1c2b7d010719aea0e998b3a5bc4e3961aad017439550e594140cd1bc0e33"
 metafile = true
@@ -3092,7 +3097,7 @@ metafile = true
 
 [[files]]
 file = "mods/mru.pw.toml"
-hash = "34ee43795085471966b5aa3791a4475fbe537c4775c18742b50cc5a60bebacac"
+hash = "741334c0b04ce1321a30ac548b4dd663670c2e1daa53ecf0d6308541c65f0c98"
 metafile = true
 
 [[files]]
@@ -3459,7 +3464,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gallery-portfolio-compat.pw.toml"
-hash = "0361af9bb2e3f912be74e719096cc3d4f495a32b76cd4b038fdc21c0f2535c98"
+hash = "e5f6bbec2a343ebac1a83d38d57dce22059df2df9514033f5840bfb9ee277451"
 metafile = true
 
 [[files]]
@@ -3474,5 +3479,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/probleyes-produce.pw.toml"
-hash = "4b061168d02ff5f12abf7daa85294c5cd04d45d51a21672340cd058c42626731"
+hash = "34050328e1a3f8fad040446b6d9929e586e4fcc0bedb0159555d28a3acd4fedc"
 metafile = true

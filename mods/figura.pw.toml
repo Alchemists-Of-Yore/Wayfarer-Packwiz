@@ -5,6 +5,7 @@ side = "client"
 [option]
 optional = true
 default = true
+description = "Extensive customization of player models and more"
 
 [download]
 url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/mods/figura-custom.jar"

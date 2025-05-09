@@ -1,0 +1,18 @@
+name = "Minecraft Cursor"
+filename = "minecraft-cursor-neoforge-3.7.0+1.21.1.jar"
+side = "client"
+
+[option]
+optional = true
+default = false
+description = "Configurable and adaptive Minecraft-themed cursors"
+
+[download]
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/5D0gvZTa/minecraft-cursor-neoforge-3.7.0%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "d881b66d8c2c47afdf9adc4cb8230d594d07c62bfcdb6198a3f2544141649ba3b316fd4a90097c3755176d091f5698f5b58d257f60dcf31810e5ca4f724cd34b"
+
+[update]
+[update.modrinth]
+mod-id = "o5fhgLeQ"
+version = "5D0gvZTa"

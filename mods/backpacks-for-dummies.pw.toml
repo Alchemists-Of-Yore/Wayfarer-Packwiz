@@ -1,13 +1,13 @@
 name = "Backpacks for Dummies"
-filename = "backpacks-0.2.0.jar"
+filename = "backpacks-0.2.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ohZnoWY9/versions/4WXFkGzC/backpacks-0.2.0.jar"
+url = "https://cdn.modrinth.com/data/ohZnoWY9/versions/lGthiV5c/backpacks-0.2.1.jar"
 hash-format = "sha512"
-hash = "e8b4052dc01380e4387ecc94b96b91130ba8a0eda0144d80951576baa13c162d1b1a48f1190e463e3f2ce40f3267aea47382cefab9c0f4b8091a10e353ddb95d"
+hash = "9ba99f9c4e30a684a3c236b390e22cfa881aa98696196b2cb8488526fb0b7299ce2aaacf8778d1a1b3a8f7f3b44e5473240a9d5c15ba2bc0ede1b06bf3225c46"
 
 [update]
 [update.modrinth]
 mod-id = "ohZnoWY9"
-version = "4WXFkGzC"
+version = "lGthiV5c"
