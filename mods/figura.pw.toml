@@ -1,0 +1,12 @@
+name = "Figura"
+filename = "figura-custom.jar"
+side = "client"
+
+[option]
+optional = true
+default = true
+
+[download]
+url = "https://raw.githubusercontent.com/Alchemists-Of-Yore/Wayfarer-Packwiz/main/mods/figura-custom.jar"
+hash-format = "sha256"
+hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"

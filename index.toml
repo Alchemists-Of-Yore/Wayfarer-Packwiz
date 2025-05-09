@@ -2858,8 +2858,9 @@ hash = "05d96d5b17399f048469ff4b44451eb8d99cc7a2a075ff55718c397cb508b0c2"
 metafile = true
 
 [[files]]
-file = "mods/figura-custom.jar"
-hash = "a2e4e58d2aabc5a3352ef605155f92eb7d617419e24d651806d748f4b5cde3bc"
+file = "mods/figura.pw.toml"
+hash = "abdd72d70ba923484bb610fcecf0ab894633cb27484147ae02fa01221892a8bd"
+metafile = true
 
 [[files]]
 file = "mods/fire-arrows-ignite-fire.pw.toml"
@@ -3056,7 +3057,7 @@ metafile = true
 
 [[files]]
 file = "mods/modelfix.pw.toml"
-hash = "6f0dcbcffd4400c6cef07f1eeb48cdc25bac0fa01270936feab4c549aff4738e"
+hash = "f524609c076d99dda07916dd2ad73e429fb8a90000befb7b196dd522221ef42b"
 metafile = true
 
 [[files]]
@@ -3067,6 +3068,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "87e3acd7d3cdda6d8c99f26dafd871ba6057b6ca54650b43e6b91939069a91e5"
+metafile = true
+
+[[files]]
+file = "mods/moreculling.pw.toml"
+hash = "91696791780719730cb8826de0c53d8513a7c2b320f7d641dbeb6ca974e5cec3"
 metafile = true
 
 [[files]]
