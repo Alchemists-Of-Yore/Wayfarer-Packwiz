@@ -239,6 +239,13 @@ ServerEvents.recipes((event) => {
     R: "kubejs:raw_silver",
   });
 
+  event.shaped("kubejs:raw_tin_block", ["RRR", "RRR", "RRR"], {
+    R: "kubejs:raw_tin",
+  });
+
+  event.shapeless("9x kubejs:raw_tin", ["kubejs:raw_tin_block"]);
+  event.shapeless("9x kubejs:raw_silver", ["kubejs:raw_silver_block"]);
+
   event.remove({
     id: "brewinandchewin:fermenting/glittering_grenadine_from_water",
   });
