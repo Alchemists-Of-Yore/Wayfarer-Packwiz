@@ -2,6 +2,11 @@ name = "Minecraft Cursor"
 filename = "minecraft-cursor-neoforge-3.7.0+1.21.1.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Custom Cursor! A little janky rn"
+
 [download]
 url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/5D0gvZTa/minecraft-cursor-neoforge-3.7.0%2B1.21.1.jar"
 hash-format = "sha512"
