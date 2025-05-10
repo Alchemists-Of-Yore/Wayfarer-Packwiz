@@ -611,7 +611,7 @@ hash = "873dfc38db4bfbf8dbea57f91a244b25c86b8b49f05b5de0e3319ceee388e153"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "806d840a0715b3f17529ab4f512f1e514bd61812b37b28b63f9f8d063c10da7d"
+hash = "dc2d1ec959893fb811f673090bce0eece479c398225f61b068c24f0c743e6da5"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"

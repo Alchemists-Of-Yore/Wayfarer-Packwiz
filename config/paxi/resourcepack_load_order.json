@@ -1,14 +1,14 @@
 {
   "loadOrder": [
-    "resourcepacks/Reincarnated Cursors.zip",
-    "resourcepacks/GalleryPortfolioCompat1.21.1-1.1.zip",
-    "resourcepacks/Soft-Weather-1.0-1.20.zip",
-    "resourcepacks/Authentic Shadows_1.21+.zip",
-    "resourcepacks/Wayfarer-Pack.zip",
-    "resourcepacks/probleyes_produce_1.4.zip",
-    "resourcepacks/Farcr's Re-Create 1.6.zip",
-    "resourcepacks/Farcr's Re-Crafted V2.19.zip",
+    "resourcepacks/Detail-Brush-1.6-1.20.zip",
     "resourcepacks/Farcr's Better Dirt V1.2.zip",
-    "resourcepacks/Detail-Brush-1.6-1.20.zip"
+    "resourcepacks/Farcr's Re-Crafted V2.19.zip",
+    "resourcepacks/Farcr's Re-Create 1.6.zip",
+    "resourcepacks/probleyes_produce_1.4.zip",
+    "resourcepacks/Wayfarer-Pack.zip",
+    "resourcepacks/Authentic Shadows_1.21+.zip",
+    "resourcepacks/Soft-Weather-1.0-1.20.zip",
+    "resourcepacks/GalleryPortfolioCompat1.21.1-1.1.zip",
+    "resourcepacks/Reincarnated Cursors.zip"
   ]
 }
