@@ -612,7 +612,7 @@ hash = "873dfc38db4bfbf8dbea57f91a244b25c86b8b49f05b5de0e3319ceee388e153"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "dc2d1ec959893fb811f673090bce0eece479c398225f61b068c24f0c743e6da5"
+hash = "911d60d8c8ff7149135ddc54cdc721e0fdb185c6ecd8e0563d27ccd561e149d7"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -656,7 +656,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "ba930668feb8b4de9f0dedb5abeaee3a93b212a4f68b3e59c7afbc276aca2f1e"
+hash = "45df31f16128e36bbc2e379e43cfd9c9da7d3020d03c4f69faa0b12cc6f72a40"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -3449,7 +3449,7 @@ preserve = true
 
 [[files]]
 file = "resourcepacks/Reincarnated Cursors.zip"
-hash = "c54f45ce4c63c71275b37a29a17c83454d12599c83ff8c40dc103c46c8c6a039"
+hash = "18b8febd4bfb5836a6df4734114ba8fb6e656fe870494058f913551b4b632e8f"
 
 [[files]]
 file = "resourcepacks/Soft-Weather-1.0-1.20.zip"
