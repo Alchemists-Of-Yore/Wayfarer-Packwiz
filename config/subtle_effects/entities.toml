@@ -62,7 +62,7 @@ stomachGrowlingThreshold = 0
 stomachGrowlingVolume = 0
 stomachGrowlingWaitTime = 15
 heartBeatingThreshold = 6
-heartbeatVolume = 1.0
+heartbeatVolume = 0.5
 heartBeatingWaitTime = 3
 
 [dustClouds]
@@ -71,9 +71,9 @@ alpha = 1.0
 preventWhenRaining = false
 flyIntoWall = true
 lessViewBlocking = false
-playerFell = true
-mobFell = true
-landMaceAttack = true
+playerFell = false
+mobFell = false
+landMaceAttack = false
 playerRunning = false
 mobRunning = false
 playerRunningRequiresSpeed = false

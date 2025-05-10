@@ -16,7 +16,7 @@ pollenBiomes = [
     "minecraft:flower_forest",
     "minecraft:sunflower_plains"
 ]
-pollenDensity = 50
+pollenDensity = 10
 sculkDustBiomes = [
 ]
 sculkDustDensity = 5
