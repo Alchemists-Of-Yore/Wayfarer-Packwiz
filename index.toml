@@ -534,6 +534,10 @@ file = "config/map_atlases-common.toml"
 hash = "4eec1936470079a7b6b47c2e1b1d662cec4ced7d83319260e4c4da188c4e6ab4"
 
 [[files]]
+file = "config/minecraft-cursor.json"
+hash = "ef755747dce96ca7f21525ac656623ee52a4233e4e44698a53bb55363483384c"
+
+[[files]]
 file = "config/mixed_litter-startup.toml"
 hash = "d82b08c8dc9b11e56136edc2a835d16b0d1b56b0a43e2c1b65323ad061216173"
 
@@ -647,7 +651,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "cec256c144378f60ecf51ab60f155c2cf70bc5817c1f2438c1f516623bf2edc8"
+hash = "ba930668feb8b4de9f0dedb5abeaee3a93b212a4f68b3e59c7afbc276aca2f1e"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -3146,6 +3150,11 @@ hash = "1d1a3517bcfb54958db0cd94e6c2c63efbac997ee53d777539620b7745badaae"
 metafile = true
 
 [[files]]
+file = "mods/paxi.pw.toml"
+hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
+metafile = true
+
+[[files]]
 file = "mods/pet-cemetery.pw.toml"
 hash = "023168228652ce58992acd9a4c0e3da88c5dbc5183f968d2feb41587d6a3f62f"
 metafile = true
@@ -3412,6 +3421,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "e2ab678518f876a978414ec1b9c88896d78dcc49ee7bfefa0acc165d5388c7be"
+metafile = true
+
+[[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "4bb587c09a53f82dec620482b3badeee9d6e865902efcfc39139f906cc0b108f"
 metafile = true
 
 [[files]]
