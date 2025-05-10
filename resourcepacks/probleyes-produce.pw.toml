@@ -1,13 +1,8 @@
 name = "Probleyes' Produce"
-filename = "probleyes_produce_1.2.zip"
+filename = "probleyes_produce_1.4.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/QCxWGCms/versions/OLmBSuaY/probleyes_produce_1.2.zip"
+url = "https://cdn.modrinth.com/data/QCxWGCms/versions/fkPPAEpd/probleyes_produce_1.4.zip"
 hash-format = "sha512"
-hash = "50251e8bb700398bc1ff56d50f016d1e4b8c1c86ff81c367f9f7bfd609bb40ab04a41a357cd03bb6cf9a37cc130ed5e7c3232020ad23a24b2873293cfaa8a1b8"
-
-[update]
-[update.modrinth]
-mod-id = "QCxWGCms"
-version = "OLmBSuaY"
+hash = "d5432a9ab76ecd21467c1d1b399dc34eed22cdb10ab69b9b0e7c6cc5f95c7cfda0814d1788d76d1e949c5b920fd1d800014ad259a6dd865198e574724da9fcf4"

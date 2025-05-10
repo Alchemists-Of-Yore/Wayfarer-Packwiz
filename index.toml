@@ -535,7 +535,8 @@ hash = "4eec1936470079a7b6b47c2e1b1d662cec4ced7d83319260e4c4da188c4e6ab4"
 
 [[files]]
 file = "config/minecraft-cursor.json"
-hash = "ef755747dce96ca7f21525ac656623ee52a4233e4e44698a53bb55363483384c"
+hash = "e4bd79c69d355cb909a0c162ef82ce08fe484f54ee9aa0b03a8bf4c48a2f67dc"
+preserve = true
 
 [[files]]
 file = "config/mixed_litter-startup.toml"
@@ -3500,5 +3501,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/probleyes-produce.pw.toml"
-hash = "34050328e1a3f8fad040446b6d9929e586e4fcc0bedb0159555d28a3acd4fedc"
+hash = "73115e9f7687317dfd042edc64720234afaa60b6f436a07d2de0b345120ce0a4"
 metafile = true
