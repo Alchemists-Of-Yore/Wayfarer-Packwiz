@@ -647,7 +647,7 @@ hash = "46ab2efe9e836dc814c047e2a8c8f4a56e8f315d73a385e9f94fa290439c72cb"
 
 [[files]]
 file = "config/resourcepackoverrides.json"
-hash = "b47733721c968eecb441a1fea2d1fcc4594d1627271a8088ff9a0a50f52d6fd0"
+hash = "cec256c144378f60ecf51ab60f155c2cf70bc5817c1f2438c1f516623bf2edc8"
 
 [[files]]
 file = "config/responsive-shields.toml"
@@ -752,7 +752,7 @@ hash = "804ab4a192e0bda762323deb082b693add3bfe7bfde9f5e569ad25fdbf79678d"
 
 [[files]]
 file = "config/subtle_effects/biomes.toml"
-hash = "136079342ef49fdbdb7329ccc60c7b22c35a3d22bcc0ffd1a7d49e909e7ddf9d"
+hash = "54689c109fc6da417b41ce6da684376ca58e2a87bd44c5ae3d4c752802e63f03"
 
 [[files]]
 file = "config/subtle_effects/blocks.toml"
@@ -760,11 +760,11 @@ hash = "8dd22c544dd339c5000d5a407d3aa3ee6902a73c4790cb51cab2949125dec17c"
 
 [[files]]
 file = "config/subtle_effects/entities.toml"
-hash = "87d005bd9dbb9657a15366fcc984b513a188882e669832e98d16ace46ee4724a"
+hash = "ac10bcb5e6c0bbd2910378dfb107451b3daa4a400148e30e6eff17d016279b44"
 
 [[files]]
 file = "config/subtle_effects/general.toml"
-hash = "3133525b72acd6442ec982e769ba341857ec2b022df62434629e84eb7a35077e"
+hash = "5fc26cca0e067f33ff7caf7ef155acaccff3248721372b14ceb87519064f51e5"
 
 [[files]]
 file = "config/subtle_effects/items.toml"
@@ -2569,7 +2569,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-third-person.pw.toml"
-hash = "313b307c8aa85d2e48c7c625f56589037dbf4b900e60415e77c9f42d0b1c230c"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
 metafile = true
 
 [[files]]
@@ -2829,7 +2829,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
-hash = "181851f3be8080cf88e3c7449cb4dd3dcc65787695559199da5c39af98268065"
+hash = "2c706118f441a3dc4d0c0cc0f2ce0030cce8aa9bd26542131ab0791e0196539c"
 metafile = true
 
 [[files]]
@@ -2859,7 +2859,7 @@ metafile = true
 
 [[files]]
 file = "mods/figura.pw.toml"
-hash = "18da935843e3c4ab1977b2938742ec9f1ea33e557fa34ce36c710eacd77c378a"
+hash = "3496826bd7157c8047d535f33c1249fee25b9ae8231068773f514d24ac67f128"
 metafile = true
 
 [[files]]
@@ -3052,7 +3052,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "7563aab7e0c4911ddaf943dfb5e68f27127123df74332909dd7783711f493437"
+hash = "be9b9be4c65a121a67d7e182090e32b4559acc2a8e2ff39fa9c8463eecb8cf42"
 metafile = true
 
 [[files]]
@@ -3282,7 +3282,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound.pw.toml"
-hash = "fc0a65b17023649186bd430a3ffae3a7828bff2b6935a9c2eda7d5225a67fe95"
+hash = "9fd8a776007787ce2f9015d2371abf3891b7cc070ba10f233205548ebc6dd82a"
 metafile = true
 
 [[files]]
@@ -3333,11 +3333,6 @@ metafile = true
 [[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "3c6d9d736ddaaf332b5a0aabbbbf9b13680e55ef3b4ca0cec8fcf8e77f0b912e"
-metafile = true
-
-[[files]]
-file = "mods/toastbegone.pw.toml"
-hash = "a4baef234f249a012dfb922578f2f9122a75c74ddc3dca9caebdb92cbd49cfb4"
 metafile = true
 
 [[files]]
@@ -3428,6 +3423,10 @@ metafile = true
 file = "options.txt"
 hash = "6f84ccb3379e724b45844df0a88cbb739023cbe0a2b78822a0e32f199d27afa4"
 preserve = true
+
+[[files]]
+file = "resourcepacks/Reincarnated Cursors.zip"
+hash = "c54f45ce4c63c71275b37a29a17c83454d12599c83ff8c40dc103c46c8c6a039"
 
 [[files]]
 file = "resourcepacks/Soft-Weather-1.0-1.20.zip"

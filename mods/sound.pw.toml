@@ -2,11 +2,6 @@ name = "Sounds"
 filename = "sounds-2.4.11+1.21.1+neoforge.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Adds a wide range of new and improved sound effects"
-
 [download]
 url = "https://cdn.modrinth.com/data/ZouiUX7t/versions/dbIWcJvs/sounds-2.4.11%2B1.21.1%2Bneoforge.jar"
 hash-format = "sha512"
