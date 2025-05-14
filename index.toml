@@ -422,6 +422,10 @@ file = "config/gallery-common.toml"
 hash = "edb48061400dd675918d7e5d1b5f0846f056ceb09f5f4eada9fa36500c9bff36"
 
 [[files]]
+file = "config/global_packs.toml"
+hash = "9acf51c92dce5925ec874467b9d42100f19ac6ff9afd261e1ee460e92131c77c"
+
+[[files]]
 file = "config/harvest_with_ease-common.toml"
 hash = "2530c84f7af073444bcb383e185a963f33958b9c3c2fde7d6f8e3bcd057c1046"
 
@@ -609,10 +613,6 @@ hash = "74629791809f65722bec65adaf4c00b7805b87d1d40636803144c74eb05ba256"
 [[files]]
 file = "config/passablefoliage-common.yaml"
 hash = "873dfc38db4bfbf8dbea57f91a244b25c86b8b49f05b5de0e3319ceee388e153"
-
-[[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "911d60d8c8ff7149135ddc54cdc721e0fdb185c6ecd8e0563d27ccd561e149d7"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
@@ -2533,17 +2533,17 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "d950acb197c0c484dde012daba41357128cc52c8a9cc3c6f0f830e5379df487f"
+hash = "5b1d241dcad673a15a8e26e7a554e7d5b39ac10cfbc553e1893ba918f774ac9e"
 metafile = true
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
-hash = "1d0118e591b73f05d94f75663955730e4253c7ac56231e0e9c4b349926b7ecd2"
+hash = "b9c10bddf32ae4c769576927b88fe5aefcbede28c63f6c1d52dc3497dc4c46d6"
 metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "c0d18ec0bdd9b50d1982ea8b5191c15291eda08570c63a08c7792474e443a148"
+hash = "146dd7165c696bfa10cd8e6fa90dd5b2578244ecd35e041557b76b0cff2d0fa6"
 metafile = true
 
 [[files]]
@@ -2838,7 +2838,7 @@ metafile = true
 
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
-hash = "2c706118f441a3dc4d0c0cc0f2ce0030cce8aa9bd26542131ab0791e0196539c"
+hash = "fc8948d1a8837b7a89a3b754335fd53086ba89c78af9c3d07fa899761c6a9e50"
 metafile = true
 
 [[files]]
@@ -2902,6 +2902,11 @@ hash = "548cf9b25748105c70af57d4f169f4f8ea9c47c1ec6ec9cae9cbe264bdf31754"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "878744a89a38dac732a02c6845d101aaaadaaf5564afdaf324c3d5c386f5b9ca"
+metafile = true
+
+[[files]]
 file = "mods/glow-1.0.0.jar"
 hash = "9a20b51bc2e8eebc268478c2839c6419d98885501378e7424917282af546d16b"
 
@@ -2942,7 +2947,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "f818a67f350f4821e17afd834e1cd3a4a56eec0bc440c603c88d4e41452a446e"
+hash = "94aee82feb6a110282f07a88138a04c224e88c96e6048a40a01305a0b73add72"
 metafile = true
 
 [[files]]
@@ -2982,7 +2987,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "77b86ca843207273549875640b1c16254c2486e67127c37344c186b503da96ed"
+hash = "44634200be079994523f61e1a4b2878f4d2e1b59d52378391aa81192b1d15bf1"
 metafile = true
 
 [[files]]
@@ -3047,7 +3052,7 @@ metafile = true
 
 [[files]]
 file = "mods/mannequins-3.0.0.jar"
-hash = "84326a153f82b1fdb70023e874359b8733597388da128dd224ac957e3ba0f796"
+hash = "7c32bd9987ad74fb9c0117eb7ba0c1b4fb113ab7785a1b6f0608db3073ecaf6b"
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
@@ -3152,11 +3157,6 @@ metafile = true
 [[files]]
 file = "mods/particle-interactions.pw.toml"
 hash = "1d1a3517bcfb54958db0cd94e6c2c63efbac997ee53d777539620b7745badaae"
-metafile = true
-
-[[files]]
-file = "mods/paxi.pw.toml"
-hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]

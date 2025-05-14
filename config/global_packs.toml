@@ -1,0 +1,29 @@
+# Auto Generated, do not touch
+config_version = 2
+# If set to true, the mod creates a new global folder, that is global for your user on your computer.
+# The created folders will be:
+# <user_home>/.minecraft_global_packs/<version>/required_datapacks
+# <user_home>/.minecraft_global_packs/<version>/optional_datapacks
+# <user_home>/.minecraft_global_packs/<version>/required_resourcepacks
+# <user_home>/.minecraft_global_packs/<version>/optional_resourcepacks
+enable_system_global_packs = false
+
+# This config allows you to add or remove folders or single files as Data-/Resourcepacks
+# For that simply specify the file path to the folder/file relative to your <instance> folder
+[resourcepacks]
+	required = [
+    "resourcepacks/Detail-Brush-1.6-1.20.zip",
+    "resourcepacks/Farcr's Better Dirt V1.2.zip",
+    "resourcepacks/Farcr's Re-Crafted V2.19.zip",
+    "resourcepacks/Farcr's Re-Create 1.6.zip",
+    "resourcepacks/probleyes_produce_1.4.zip",
+    "resourcepacks/Wayfarer-Pack.zip",
+    "resourcepacks/Authentic Shadows_1.21+.zip",
+    "resourcepacks/Soft-Weather-1.0-1.20.zip",
+    "resourcepacks/GalleryPortfolioCompat1.21.1-1.2.zip",
+    "resourcepacks/Reincarnated Cursors.zip"
+	]
+
+[datapacks]
+	required = ["datapacks/"]
+	optional = ["global_packs/optional_data/"]
