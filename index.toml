@@ -3052,7 +3052,7 @@ metafile = true
 
 [[files]]
 file = "mods/mannequins-3.0.0.jar"
-hash = "7c32bd9987ad74fb9c0117eb7ba0c1b4fb113ab7785a1b6f0608db3073ecaf6b"
+hash = "a642627110ee85f76534d7de981edf970ca4fee7e5be1de63e7d19ef10246ba3"
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
