@@ -1,13 +1,13 @@
 name = "Gallery Portfolio Compat"
-filename = "GalleryPortfolioCompat1.21.1-1.2.zip"
+filename = "GalleryPortfolioCompat1.21.1-1.3.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/cowTKSG6/versions/hKADjffN/GalleryPortfolioCompat1.21.1-1.2.zip"
+url = "https://cdn.modrinth.com/data/cowTKSG6/versions/aqxKZp2C/GalleryPortfolioCompat1.21.1-1.3.zip"
 hash-format = "sha512"
-hash = "18c61e6dbeea7c454d84d1d098d3d7b96d13b65929bca13eb7230ee646b998eae56f43604cf3ef425a18f24f791fc5893a627cc27da077f000bee767b97dd064"
+hash = "0ed2f62a7a41e67d966555d3c7d601a9f892ab2914fe9d3435ab8fe5281a586b4579fca6a353622d5ffcd51d2a086622450ae7586b89b28668b0ad227dd7a9ac"
 
 [update]
 [update.modrinth]
 mod-id = "cowTKSG6"
-version = "hKADjffN"
+version = "aqxKZp2C"
