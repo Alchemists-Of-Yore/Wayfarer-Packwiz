@@ -1368,6 +1368,10 @@ file = "kubejs/assets/minecraft/textures/item/bell.png"
 hash = "fdd7b925cf1d78fc127f958b481108725d6f1c4ec36f66526fccaa8ba9a277fa"
 
 [[files]]
+file = "kubejs/assets/minecraft/textures/item/brick.png"
+hash = "ca50d23df8051b84204505e12c2c3f6d2d8381fa927eca80775f27301545180b"
+
+[[files]]
 file = "kubejs/assets/minecraft/textures/item/bucket.png"
 hash = "2dde0fe008757040574629b2ceaebf0b8e538753518442a4d7c3dbf732031b9c"
 
@@ -1426,6 +1430,10 @@ hash = "3754c8e1071995adc562f8cd317a5aae6eac757687ce84a7452ea9c9cca99d82"
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/milk_bucket.png"
 hash = "c1aea1a57670bde2adb26c9f74c86b9f894f037ed034fad65e3b2f19b3b287c9"
+
+[[files]]
+file = "kubejs/assets/minecraft/textures/item/nether_brick.png"
+hash = "f7b0ba3fc7c61632a5d5de2fb78ea89d08c3cb8171bbc35caeff6aa8a48af1e7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/item/powder_snow_bucket.png"
@@ -1500,8 +1508,48 @@ file = "kubejs/assets/portablehole/textures/item/portable_hole.png.mcmeta"
 hash = "33f027f9a877ed09f729025b9d2e3a5d61f110d417187ddaf796b1d4700d62cb"
 
 [[files]]
+file = "kubejs/assets/sawmill/blockstates/sawmill.json"
+hash = "a5fd350cae64b901fb59a65f43106107313f03005107abac84fdf0154120c2bd"
+
+[[files]]
+file = "kubejs/assets/sawmill/lang/en_us.json"
+hash = "b96598b66848dbb3239dc074203485600c502e87f479f94dedbdf6930d6cd1e9"
+
+[[files]]
+file = "kubejs/assets/sawmill/models/block/sawmill.json"
+hash = "1e6a56e4ed1376aedf766121c72bd2ef8e0b51070593cf84aa8042b7bbe7e0d4"
+
+[[files]]
+file = "kubejs/assets/sawmill/models/item/sawmill.json"
+hash = "0c1d22f21568d4766ee12a6f6c7b5cec7649cfb149b86af7e2029271e01f7e55"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_blade.png"
+hash = "68ce3e0cc8392cff17abaabe5bfb1ef176f78cb2e3f41efa7407e9d8f01205e3"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_blade.png.mcmeta"
+hash = "c20a5a514f6a7c840b4c0503381b44261d6017cae210ab7fe4e77a4ded5af00d"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_bottom.png"
+hash = "6cd72e59bc7b385033d6bb88d4d36d1a01fd62734b8aa066b401b2bf6781f9e2"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_front.png"
+hash = "b09b32749d4992baf79a798ab051dec8921cb8d880bb4464707512353bfa933f"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_side.png"
+hash = "87e4f7cbc432e3e9011c5a84d5539ce5d2e94b48616600444c77d7d44a540ea1"
+
+[[files]]
+file = "kubejs/assets/sawmill/textures/block/sawmill_top.png"
+hash = "05b851d0957e55cc64047fdc8c930b0c8ab33e5745e8225fc360014f9fa65535"
+
+[[files]]
 file = "kubejs/assets/supplementaries/lang/en_us.json"
-hash = "6e3969451942cbb7816ac05333f041be6399395b326661e6c2fc7a9b9285a439"
+hash = "0419121f4f4a0ee906f752b2111828f7e31837351cf362368f858a63b95de7f0"
 
 [[files]]
 file = "kubejs/assets/supplementaries/models/block/lunch_basket.json"
@@ -1522,6 +1570,14 @@ hash = "86aa94a17ac0730bf15d0eb5c1bdc207701a98fd0e34aec3e13483a93c967752"
 [[files]]
 file = "kubejs/assets/supplementaries/models/item/wrench.json"
 hash = "6581b263c605f5855980e0b0e3a928167807cd650672ba98a32ec16d4a17bf46"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/cabin_siding_end.png"
+hash = "87cef9fb88a54026de3e48735f008135de00f465835211255a318be7de333cca"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/cabin_siding_side.png"
+hash = "0eb1cad1621ff0b4512ede68bd945a91f933c76f7f6ab220108f2958e5e4ed96"
 
 [[files]]
 file = "kubejs/assets/supplementaries/textures/block/lumisene/lumisene.png"
@@ -1748,6 +1804,38 @@ file = "kubejs/assets/supplementaries/textures/block/lumisene/lumisene_underwate
 hash = "ebbca5f593dd89bc54fe8a0e730919ae944887b592fc6a3569b885bee20814d7"
 
 [[files]]
+file = "kubejs/assets/supplementaries/textures/block/stick.png"
+hash = "eafc348f11a9a0f2ae7d05f80474cae253eb18667eff91f818816150ae5c47d1"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/stick_cross.png"
+hash = "35bc5ecca3647b66147037a46ba875335324ae00611b7a6566f6b823117c26cb"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/timber_brace.png"
+hash = "be0856eb9495530ddc87b9b0f2b22556206ae71c8f7295f15e9f81155073a34c"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/timber_brace_f.png"
+hash = "be0856eb9495530ddc87b9b0f2b22556206ae71c8f7295f15e9f81155073a34c"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/timber_cross_brace.png"
+hash = "aaf53f9dd93dd7083e846c5662b2295a8df9d959f120c056014fadc7a2febdd6"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/timber_frame.png"
+hash = "60d5c2c644e133c6064b100d5ad26a6160d384711c9bb34bc514c253a17b4f0c"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/ash.png"
+hash = "7107516b0693036501c9ab0e4323964cb1e43244805b91a9d212d94cdd8347c0"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/ash_brick.png"
+hash = "678502d8e3744a00b0d57a6133f2f126c7b7622fc665a86d1c858efeb3aa23d8"
+
+[[files]]
 file = "kubejs/assets/supplementaries/textures/item/lumisene_bucket.png"
 hash = "91bd49cc4df2d9533b38d190a5e7f951f28ef9ada6eb445babe5d6364098f69f"
 
@@ -1766,6 +1854,18 @@ hash = "38e1a29f1a5ef2caff6fbf8076c9657ecbbd234d178e82dd002f0c2adffeee5f"
 [[files]]
 file = "kubejs/assets/supplementaries/textures/item/lunch_basket_open2.png"
 hash = "38e1a29f1a5ef2caff6fbf8076c9657ecbbd234d178e82dd002f0c2adffeee5f"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/timber_brace.png"
+hash = "2f30ff9e96b25fabe943497654ffdaeeb12351f1878e76252a74842e9516d03e"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/timber_cross_brace.png"
+hash = "aaa95dac5fcb5abe0ea5681809e6286ca5165318d62e337208e96d12faf65956"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/item/timber_frame.png"
+hash = "ae12ae4e987d5f8cea707068cda4a6cb917cfe09c43186393b2e685593b36955"
 
 [[files]]
 file = "kubejs/assets/supplementaries/textures/item/wrench.png"
