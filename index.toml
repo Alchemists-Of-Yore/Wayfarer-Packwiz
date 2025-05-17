@@ -294,10 +294,6 @@ file = "config/fancymenu/assets/iconmacos.icns"
 hash = "7a3a3f5e8c612d5a9c1d90dfde9ba9f04a8ba1bbe7bd3bf22011d5400a29ce4b"
 
 [[files]]
-file = "config/fancymenu/custom_gui_screens.txt"
-hash = "ff492043eaf454c46e949d5eef32ece90cc5a19feb50a161dd29a43b5732c880"
-
-[[files]]
 file = "config/fancymenu/customizablemenus.txt"
 hash = "55e04359c95aaa60baea3efa1268d5004b1285c03ceaf090435418e1797785c3"
 
@@ -319,7 +315,7 @@ hash = "442e846a5e0a3627645727789ae3ecbd39c5dbd38e9eb430c9ea71f0f39f5268"
 
 [[files]]
 file = "config/fancymenu/customization/pause_screen_layout.txt"
-hash = "e18537182b9cc69fcb61fb7a00f3aba398c3bf91fa2611af44efd656d630b892"
+hash = "80a64f5fbb500360140664c1d30f3a4961f8a60db156dad85beee59e41831d75"
 
 [[files]]
 file = "config/fancymenu/customization/skin_customization_screen_layout.txt"
@@ -334,52 +330,8 @@ file = "config/fancymenu/layout_editor/widgets/element_layer_control.lewidget"
 hash = "051d700ea7ff1bd626063d60f9a9cd65a0af1fed5903706d1e70fce20bcb2495"
 
 [[files]]
-file = "config/fancymenu/legacy_checklist.txt"
-hash = "9a25d3dc708e43eabafce5479a13c02dae15bc7f673afb2745b8b2ba48a97dc0"
-
-[[files]]
 file = "config/fancymenu/options.txt"
 hash = "dabe41d9f912c441485e8d85803d5fe477551fe5d8fb9ec586aec3c37f72e4df"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_0.png"
-hash = "8662f51f18a68d82233ba408eb88a8ef28543be1d741687860acdb0b79a8c818"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_1.png"
-hash = "f00e96bf719bb8a0fc2eae1b57e05fb906cbd84136fe2be11a5c12f18003e4a4"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_2.png"
-hash = "a019916d29edbff0020d3b064e4aae105896039ea0aad1fafafd47bafe63c338"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_3.png"
-hash = "a2b099e1c40339c2d7c0a533a62768053c3472ece01ac4d78245e59468b2d5f1"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_4.png"
-hash = "e854e60394987a0ade3859dfabdfb915a8695e1b32ae1f7fcb89e48b5bcbd675"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/panorama/panorama_5.png"
-hash = "069205cfefa7e97a58f2302509ad80191b7fdbba5b74cbb024258f3cd0c522ee"
-
-[[files]]
-file = "config/fancymenu/panoramas/default/properties.txt"
-hash = "70f078fed7d6f7b6373878f727e60da71f65b9a34d7d06f7a7bba42182e6d05f"
-
-[[files]]
-file = "config/fancymenu/ui_themes/dark.json"
-hash = "45541e5c5019585b9c4ff114aed530826129e8a7ac6866b5d5fe41dd278abae4"
-
-[[files]]
-file = "config/fancymenu/ui_themes/light.json"
-hash = "6954379d658fdf496f162792a3244f0f08635858ed4b0553a718a7ef63b8a620"
-
-[[files]]
-file = "config/fancymenu/user_variables.db"
-hash = "27760690960a73f6c609e9906fe8516ca59d21e62be6966dcd59672c235d0bb8"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
@@ -410,10 +362,6 @@ file = "config/flywheel-client.toml"
 hash = "4ae4bcb313f7215d1466a36e008e0f20805c98e1aa5b46b154a81dbfdb098e9d"
 
 [[files]]
-file = "config/fml.toml"
-hash = "d5f98507a05cfeb4b5b9927034cbe901ec9b2ded23348f1fdcd6130800c0ba2c"
-
-[[files]]
 file = "config/gallery-client.toml"
 hash = "38227482fd64c5d07cb909352d69ac4f3002297b8c4257a758314b239664accb"
 
@@ -427,7 +375,7 @@ hash = "9acf51c92dce5925ec874467b9d42100f19ac6ff9afd261e1ee460e92131c77c"
 
 [[files]]
 file = "config/harvest_with_ease-common.toml"
-hash = "2530c84f7af073444bcb383e185a963f33958b9c3c2fde7d6f8e3bcd057c1046"
+hash = "92cd021d74c6569aa2739a4a38d1579fc52d9ba3872d7bb6d67733d666fbc986"
 
 [[files]]
 file = "config/heyberryshutup-common.toml"
@@ -2533,12 +2481,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "cfb541dea092919eec36156552e1b07fbadf67c2de1c1a827d982ef9fabfea90"
+hash = "788f76e2a7d8edc9d697b769a00d15d0add331c4299b28f26628aca282c7d50b"
 metafile = true
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
-hash = "b9c10bddf32ae4c769576927b88fe5aefcbede28c63f6c1d52dc3497dc4c46d6"
+hash = "ad3ea975d83d77321f338f8fa103d58b89978572749f2531290e6cd7804f8e9e"
 metafile = true
 
 [[files]]
@@ -2672,6 +2620,11 @@ hash = "b171daa46eaf38e18b576293dec212a6e03cf732fdcc86f4835a3b4822b4ef7f"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "9f920c5f1df2577cf374285e4aad4f2982a30ea2a3da1cf7ddaf25e04b3a2e31"
+metafile = true
+
+[[files]]
 file = "mods/constant-music.pw.toml"
 hash = "32e169ff33f873dff9465b721c14935714dc121f4f8508e6a5879b70e4acee2a"
 metafile = true
@@ -2704,6 +2657,11 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "8723b21b688f4e45a0377958bdc6dd66a1b37c20719f56f566d249efdd6ebc3e"
 metafile = true
 
 [[files]]
@@ -2882,6 +2840,11 @@ hash = "80d3da8d125dd58618b954632c285d1c310c61059b2193cc1c5a8c3ecf68af0d"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "cb56550a957dd44cab4f9102aa588cd22421cd6b4099a03ac7b1b167c23c0f13"
+metafile = true
+
+[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "8e5da360e375437a904021af1e7eda56fa14f1d68af363f3b6217763c63d3544"
 metafile = true
@@ -2973,6 +2936,11 @@ metafile = true
 [[files]]
 file = "mods/iris.pw.toml"
 hash = "c3c06a4839ecfd4717686f7394396a4fc66b7a2e8eabbdd51f23ab2a1099cc1e"
+metafile = true
+
+[[files]]
+file = "mods/item-borders.pw.toml"
+hash = "709a01e949975ef624c4fbeabb1d8a2339eb50709d2b3e1e84732ca31f341c4d"
 metafile = true
 
 [[files]]
@@ -3189,6 +3157,11 @@ hash = "8319748b7c1a39462d159ed94da5c972b99958628c776be8d7c1e4c48fdaa5eb"
 metafile = true
 
 [[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "b27fedf73ce2b829db06bf18fea5afd33f0a001b75465301c7f5bafe7e3c04d8"
 metafile = true
@@ -3220,7 +3193,7 @@ metafile = true
 
 [[files]]
 file = "mods/scholar.pw.toml"
-hash = "264eb487a043d54a75020d2e48a4f2c3732af5438dd58cfa2fcea6daa5d94788"
+hash = "fcfe2e07d0263e2ad9cd45ba6e30d4c937d83a0bb36902eb2ad65546fcdb1855"
 metafile = true
 
 [[files]]
@@ -3341,6 +3314,11 @@ metafile = true
 [[files]]
 file = "mods/the-block-box.pw.toml"
 hash = "3c6d9d736ddaaf332b5a0aabbbbf9b13680e55ef3b4ca0cec8fcf8e77f0b912e"
+metafile = true
+
+[[files]]
+file = "mods/tiny-item-animations.pw.toml"
+hash = "922febf9d28f1db3be54a689b99180eaa62f10e92e1df6938e8d5743b801f294"
 metafile = true
 
 [[files]]
@@ -3476,7 +3454,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/gallery-portfolio-compat.pw.toml"
-hash = "2e37ac7b8bf34232d09948c3488c73e047a6af1f9debc384fa36f907ccfb72bf"
+hash = "ad1da25f3533d7f5e9e03dec84afd0bc874f3575d5521cf317cd0c00806687af"
 metafile = true
 
 [[files]]
