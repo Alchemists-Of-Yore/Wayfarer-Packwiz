@@ -3,11 +3,11 @@ filename = "backpacks-0.3.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ohZnoWY9/versions/IWcofzLr/backpacks-0.3.1.jar"
+url = "https://cdn.modrinth.com/data/ohZnoWY9/versions/x6K0Ndpf/backpacks-0.3.1.jar"
 hash-format = "sha512"
-hash = "f0e4b7163b154cb71862e91ea964b0a7b21283ad222c70f9407dc3474ddfdadacaafc97869dcb6f613dc69ca67a28b1362bf72e5e3b83f874f72df79e9fb6018"
+hash = "867e2e93fc05182427756bce9260ae171eadd8aabcfcc20da66e75bd5319dc52d5938b8a3dd4f4574e0eacd1714b80b714b1ffc349ad885ae29040b4fc34f4e0"
 
 [update]
 [update.modrinth]
 mod-id = "ohZnoWY9"
-version = "IWcofzLr"
+version = "x6K0Ndpf"
