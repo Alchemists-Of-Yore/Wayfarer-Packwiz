@@ -864,6 +864,10 @@ file = "kubejs/assets/farmersdelight/textures/item/wheat_dough.png"
 hash = "31bf89b730e574b8d8eeb7f8b77aee86722ff631162d1d78bd405fbcacb95b13"
 
 [[files]]
+file = "kubejs/assets/incubation/lang/en_us.json"
+hash = "3ebf0c1cf649246aeed869c86324dce668eacffdd3d41dd815324c2ed59052fd"
+
+[[files]]
 file = "kubejs/assets/kubejs/particles/smoke_plume.json"
 hash = "2b25dd669e0a4bbf1ee552b3672d59fd4204358cc9d4bdf5d590911829780e47"
 
@@ -1293,7 +1297,7 @@ hash = "c914bed9941859df26f5d922afad6ce4786668d49a6ca3186de1403e69535d0e"
 
 [[files]]
 file = "kubejs/assets/minecraft/lang/en_us.json"
-hash = "c13d12808188e78ca79ad9ae773ac45d117467b6d683ea9d64ce335a20129dc4"
+hash = "dbf2f45a7d29b39b162e91ab2bd61abe242ed0414011aa47268a5cc86dc74cc7"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/block/bell_bottom.png"
@@ -2777,6 +2781,11 @@ metafile = true
 [[files]]
 file = "mods/conduits-prevent-drowned.pw.toml"
 hash = "b171daa46eaf38e18b576293dec212a6e03cf732fdcc86f4835a3b4822b4ef7f"
+metafile = true
+
+[[files]]
+file = "mods/connectiblechains.pw.toml"
+hash = "dac9bd0211dbc711e7934e24c87f9035ad86e31798fac702a2d0241b41c71759"
 metafile = true
 
 [[files]]
