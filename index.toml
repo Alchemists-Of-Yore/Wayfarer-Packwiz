@@ -1552,6 +1552,54 @@ file = "kubejs/assets/supplementaries/lang/en_us.json"
 hash = "0419121f4f4a0ee906f752b2111828f7e31837351cf362368f858a63b95de7f0"
 
 [[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/ceiling_1.json"
+hash = "082bfc410534a70eb856ed8d56bab617e50a567cc92d1a503cf0b6c024fb481c"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/ceiling_2.json"
+hash = "f37c6ed6683c191cf166194bfb2dcf42f975eb3a15c8973671f9b01783d069fd"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/ceiling_3.json"
+hash = "e487ab3319dc51046d6f7a7b6fa12de96ba49ab2d179f886faa3248caa33f8b2"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/ceiling_4.json"
+hash = "5b0eb751d41500ec3fb3e0773ad13f0cdfc1371040ae0668750a9224df1f8c4d"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/floor_1.json"
+hash = "cde16fc448acb72047815a21d6d1fa5d7071a73cea8ae547d3f903f5154f5d9f"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/floor_2.json"
+hash = "c7fd787be7bfa32d6bc8fc9ee39fdcc1f075d54539e07c9d2fad73f20729b94b"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/floor_3.json"
+hash = "4155562648c9045011f8272c986b2dfc075c3b13018ac150a5203a280a97c832"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/floor_4.json"
+hash = "70e4c58928a92985fd369e38f6a8f2c8001e58ea4cae61bcf2fa3db12fa7526f"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/wall_1.json"
+hash = "baf4a40162c2593900997280594f76bfe4bd3617a4d37484b99bb3f039356202"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/wall_2.json"
+hash = "08967f9818ac7db8db976bd9555f25cec5fcd0e25363c3e0453ea36e129eed2f"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/wall_3.json"
+hash = "30e3741aac1fe206a73868b5c7223ed9b398ae24c6bd571a83d32c8feb98491a"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/block/candle_holders/wall_4.json"
+hash = "4c23e21fb9b1ff3730cfbcdc941cc94b67354fae12dd5097e829c4c37fe15558"
+
+[[files]]
 file = "kubejs/assets/supplementaries/models/block/lunch_basket.json"
 hash = "a70cbab29158a37a0df9dba387212b651dd48bda76e9f7f6c9caa4b1034c714a"
 
@@ -1566,6 +1614,18 @@ hash = "955fd550a95fea9772abb9008ca00a1997e7b4ce5879dbc65a41e2d28fac0cc9"
 [[files]]
 file = "kubejs/assets/supplementaries/models/item/lunch_basket.json"
 hash = "86aa94a17ac0730bf15d0eb5c1bdc207701a98fd0e34aec3e13483a93c967752"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/item/timber_brace.json"
+hash = "096bd61cd7833091db811bc24f6f414cef07aa1f0ffd0a12f53aac78c0afb954"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/item/timber_cross_brace.json"
+hash = "1247ac77f5388bdd5874c1cf2baae8338d044928e5f8cf5ca2f4758e8be1b141"
+
+[[files]]
+file = "kubejs/assets/supplementaries/models/item/timber_frame.json"
+hash = "4c68ba495d4db51665a9a55cbd4741a296231302f6547a150a494d82096fe02c"
 
 [[files]]
 file = "kubejs/assets/supplementaries/models/item/wrench.json"
