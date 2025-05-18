@@ -1305,7 +1305,7 @@ hash = "e2e5fa39e42e9b37fe281369f282b1a5b99394ada953313c6cb1b8ec32b97573"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/block/bell_top.png"
-hash = "5bdf3c483fbe186abbcca974b02451d64800c1e0b4b2d4d58d1b3099bcb52858"
+hash = "6cd755512955a4a4c8d4baf33eb28f99155d0c7084f6705ed0010acf7cc512cd"
 
 [[files]]
 file = "kubejs/assets/minecraft/textures/block/tinted_glass.png"
@@ -2473,7 +2473,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "786722366b0ea69f8b1a3c72bce7d0dca94589707083e9177c93f2d95540b8f1"
+hash = "d247636288ddb10eb817b2923e313d438c0e336c87f30c88748f31fa9b2222bd"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -2513,7 +2513,7 @@ hash = "ec4820f4c512c6e80be03e07489c7bbb0faaf72d7739e409194b8aba7e16e54f"
 
 [[files]]
 file = "kubejs/server_scripts/progression/silver.js"
-hash = "7cdd9252f5573a589cc143c21c730cc85d4b71bb26f1ef63a13dc4a8b805d9c8"
+hash = "4c9553bec765a335ed987dccb02bf391f84cf8eb95dbced0e43285061aee8005"
 
 [[files]]
 file = "kubejs/server_scripts/progression/smithing.js"
@@ -2641,12 +2641,12 @@ metafile = true
 
 [[files]]
 file = "mods/azurelib.pw.toml"
-hash = "788f76e2a7d8edc9d697b769a00d15d0add331c4299b28f26628aca282c7d50b"
+hash = "0cab7c0afde1e630cf4af34d166e3bffd217209a7d3dc7d85721f49073330091"
 metafile = true
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
-hash = "ad3ea975d83d77321f338f8fa103d58b89978572749f2531290e6cd7804f8e9e"
+hash = "76a07d37b86807db0356227461ae841393a45452ace05041d302ac69cc8b049f"
 metafile = true
 
 [[files]]
@@ -3155,7 +3155,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "6496a3805f18d6c3ffb12e11848cd2e844ba09fb0da4446d7d1faa9b4df851dd"
+hash = "05c420cba09343bfe15beb8ca97b02241ec2bfad6f3778079bfa18f426e0faf4"
 metafile = true
 
 [[files]]
@@ -3189,7 +3189,7 @@ metafile = true
 
 [[files]]
 file = "mods/minecraft-cursor.pw.toml"
-hash = "be9b9be4c65a121a67d7e182090e32b4559acc2a8e2ff39fa9c8463eecb8cf42"
+hash = "0aad4d7e554191911c60d7c261a14a752f958b9fbc9ba939c10af16a66915291"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Minecraft Cursor"
-filename = "minecraft-cursor-neoforge-3.7.0+1.21.1.jar"
+filename = "minecraft-cursor-neoforge-3.7.1+1.21.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/5D0gvZTa/minecraft-cursor-neoforge-3.7.0%2B1.21.1.jar"
+url = "https://cdn.modrinth.com/data/o5fhgLeQ/versions/soC8ukgj/minecraft-cursor-neoforge-3.7.1%2B1.21.1.jar"
 hash-format = "sha512"
-hash = "d881b66d8c2c47afdf9adc4cb8230d594d07c62bfcdb6198a3f2544141649ba3b316fd4a90097c3755176d091f5698f5b58d257f60dcf31810e5ca4f724cd34b"
+hash = "b8d6008440a7907becd0263dbc8509ff96fbfb50d41131c2c205c0a65fb238d6b325ed7ce9821e5081d12ce0b05cd4a4a1f9fcfcf61326da12d802d025e90330"
 
 [update]
 [update.modrinth]
 mod-id = "o5fhgLeQ"
-version = "5D0gvZTa"
+version = "soC8ukgj"
