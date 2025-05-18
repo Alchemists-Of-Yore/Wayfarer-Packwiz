@@ -14,6 +14,11 @@ ServerEvents.recipes((event) => {
     "minecraft:wooden_shovel",
     "kubejs:spoon"
   );
+  event.replaceInput(
+    { id: "sawmill:sawmill" },
+    "#minecraft:wooden_fences",
+    "minecraft:stick"
+  );
 
   event.remove({ id: "supplementaries:suspicious_gravel" });
   event.remove({ id: "farmersdelight:scaffolding_from_canvas" });
@@ -138,6 +143,28 @@ ServerEvents.recipes((event) => {
     "supplementaries:flax",
     "farmersdelight:canvas"
   );
+  event.remove({ id: "minecraft:fermented_spider_eye" });
+  event.custom({
+    "type": "brewinandchewin:fermenting",
+  "experience": 1.0,
+  "fermentingtime": 9600,
+  "ingredients": [
+    {
+      "tag": "minecraft:spider_eye"
+    },
+    {
+      "tag": "minecraft:sugar"
+    },
+    {
+      "tag": "minecraft:brown_mushroom"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:fermented_spider_eye"
+  },
+  "temperature": 4
+    });
   event.remove({ id: "supplementaries:strings" });
   event.remove({ id: "farmersdelight:canvas" });
   event.remove({ id: "farmersdelight:canvas_from_canvas_rug" });
