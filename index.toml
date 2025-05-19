@@ -1644,6 +1644,22 @@ file = "kubejs/assets/supplementaries/textures/block/cabin_siding_side.png"
 hash = "0eb1cad1621ff0b4512ede68bd945a91f933c76f7f6ab220108f2958e5e4ed96"
 
 [[files]]
+file = "kubejs/assets/supplementaries/textures/block/daub_brace.png"
+hash = "0bc291b4ef1e9df67695a97766de4bd72ca707a20ed2bac6efcd88c56573e4cd"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/daub_brace_f.png"
+hash = "a562ed05460f22e5838663cbce826ae6efdb2b7c4a7f8e882d84f918394f6260"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/daub_cross_brace.png"
+hash = "4b21cdfea5c3e6fb09c87de75ba1adadd60ac759bccc799adce6fbf3d4878c0a"
+
+[[files]]
+file = "kubejs/assets/supplementaries/textures/block/daub_frame.png"
+hash = "703123dadad25464ee852d57072b7f887bb7e3873e3e8eaacd42ce6bbef95bce"
+
+[[files]]
 file = "kubejs/assets/supplementaries/textures/block/lumisene/lumisene.png"
 hash = "649129680716398bcdd833d43cec10ce8d695dfe573c97441b731c6cb7e4d0a6"
 
@@ -1877,7 +1893,7 @@ hash = "35bc5ecca3647b66147037a46ba875335324ae00611b7a6566f6b823117c26cb"
 
 [[files]]
 file = "kubejs/assets/supplementaries/textures/block/timber_brace.png"
-hash = "be0856eb9495530ddc87b9b0f2b22556206ae71c8f7295f15e9f81155073a34c"
+hash = "24c576ff806afcbb8e2a1c4b351837936b32d5e004ebbc21c748db5d47f03c19"
 
 [[files]]
 file = "kubejs/assets/supplementaries/textures/block/timber_brace_f.png"
@@ -2477,7 +2493,7 @@ hash = "708649e5bddce86bff1afbd761f58e8a797dd0599af9daa35aba1d18d2ebd087"
 
 [[files]]
 file = "kubejs/server_scripts/miscellaneous.js"
-hash = "d247636288ddb10eb817b2923e313d438c0e336c87f30c88748f31fa9b2222bd"
+hash = "7837983f265c3336417237abe864b02cfd2ad23ae8337d9d3e84496cbaecc954"
 
 [[files]]
 file = "kubejs/server_scripts/progression/armor_rebalance.js"
@@ -2517,7 +2533,7 @@ hash = "ec4820f4c512c6e80be03e07489c7bbb0faaf72d7739e409194b8aba7e16e54f"
 
 [[files]]
 file = "kubejs/server_scripts/progression/silver.js"
-hash = "4c9553bec765a335ed987dccb02bf391f84cf8eb95dbced0e43285061aee8005"
+hash = "813e991ef96dc817cecec27d963d7f33c7a4923b7d9afad5322f014e21fd132a"
 
 [[files]]
 file = "kubejs/server_scripts/progression/smithing.js"
@@ -2650,7 +2666,7 @@ metafile = true
 
 [[files]]
 file = "mods/backpacks-for-dummies.pw.toml"
-hash = "65eba1043801bec09bb40c61354092fef76b503391c982adda25955e2c3c66e4"
+hash = "dd31756a6a81061248695a163ad143da615d866b9909125741b8364e23251138"
 metafile = true
 
 [[files]]
@@ -3268,7 +3284,7 @@ metafile = true
 
 [[files]]
 file = "mods/nomansland-1.3.jar"
-hash = "301d2c103e51e9996c9b8356284b0269ea1af4e129e558a1db4f913623a06329"
+hash = "65e91993f9009432a51d608bfd16be6d88475e2dc7bccc70f5255cb540cf5160"
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"

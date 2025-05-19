@@ -10,11 +10,8 @@ ServerEvents.recipes((event) => {
   });
 
   event.remove({ id: "minecraft:brewing_stand" });
-  event.shaped("minecraft:brewing_stand", 
-    [" B ",
-       " B ",
-        "SSS"], {
-    B: "kubejs:blaze_rod",
+  event.shaped("minecraft:brewing_stand", [" B ", " B ", "SSS"], {
+    B: "minecraft:blaze_rod",
     S: "kubejs:silver_ingot",
   });
 });

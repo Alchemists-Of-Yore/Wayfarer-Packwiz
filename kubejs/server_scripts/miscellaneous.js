@@ -145,26 +145,26 @@ ServerEvents.recipes((event) => {
   );
   event.remove({ id: "minecraft:fermented_spider_eye" });
   event.custom({
-    "type": "brewinandchewin:fermenting",
-  "experience": 1.0,
-  "fermentingtime": 9600,
-  "ingredients": [
-    {
-      "tag": "minecraft:spider_eye"
+    type: "brewinandchewin:fermenting",
+    experience: 1.0,
+    fermentingtime: 9600,
+    ingredients: [
+      {
+        item: "minecraft:spider_eye",
+      },
+      {
+        item: "minecraft:sugar",
+      },
+      {
+        item: "minecraft:brown_mushroom",
+      },
+    ],
+    result: {
+      count: 1,
+      item: "minecraft:fermented_spider_eye",
     },
-    {
-      "tag": "minecraft:sugar"
-    },
-    {
-      "tag": "minecraft:brown_mushroom"
-    }
-  ],
-  "result": {
-    "count": 1,
-    "item": "minecraft:fermented_spider_eye"
-  },
-  "temperature": 4
-    });
+    temperature: 4,
+  });
   event.remove({ id: "supplementaries:strings" });
   event.remove({ id: "farmersdelight:canvas" });
   event.remove({ id: "farmersdelight:canvas_from_canvas_rug" });
