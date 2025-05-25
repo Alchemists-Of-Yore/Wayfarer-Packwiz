@@ -2835,13 +2835,12 @@ hash = "d901f874a1e09747b8d0d072c38c426eceead1f29c8ba36680f8f0082996b152"
 metafile = true
 
 [[files]]
-file = "mods/create-picky-wheels.pw.toml"
-hash = "c91192897611acfe2c585d1da05695301c483cd8ee1bc539ccbf925b82ea4449"
-metafile = true
+file = "mods/create-1.21.1-6.0.5.jar"
+hash = "06319b32768b35239aed46c1ebd9d6612affcc77216c84b9f6c9390708e5fd55"
 
 [[files]]
-file = "mods/create.pw.toml"
-hash = "a4c8371232d9f542b180c7bd7e30d84b9e958b97b24af5dde0759ab8e511fb8e"
+file = "mods/create-picky-wheels.pw.toml"
+hash = "c91192897611acfe2c585d1da05695301c483cd8ee1bc539ccbf925b82ea4449"
 metafile = true
 
 [[files]]
